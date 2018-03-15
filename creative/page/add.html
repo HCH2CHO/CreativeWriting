@@ -1,0 +1,279 @@
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <link rel="stylesheet" href="myStyle.css"> 
+
+<title>Creative Writing</title>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="https://raw.github.com/mozilla/pdf.js/gh-pages/build/pdf.js"></script>
+<script type="text/javascript">
+var fulltext
+var xietong=''
+var titlestr
+
+function checkLeave()
+{
+
+xietong={{username}}+xietong;
+$.ajax({
+                url:'/xietong/',
+                type:'POST',
+                data:{element:xietong},
+                success: function (data) {
+                //alert("success!")
+                }
+            });
+
+}
+
+function cop(){
+var str=document.getElementById("input1").value;
+
+
+var  text =$('#input1').val()
+$.ajax({
+                url:'/ajax/',
+                type:'POST',
+                data:{text:text},
+                success: function (data) {
+
+                    //document.getElementById("input2").value = data;
+                    var book=data.split(",");
+                    document.getElementById("p1").style.display = "block";
+
+
+                    for (var i=1; i<6; i++)
+                    {
+                    var x;
+                    x="t"+i;
+                    document.getElementById(x).innerHTML = book[i-1];
+                    document.getElementById(x).style.display = "inline-block";
+                    //document.getElementById(x).setAttribute('href',"http://localhost:8000/static/"+book[i-1]+".txt");
+                   }
+
+                }
+            });
+
+}
+
+function fake_click(obj) {
+    var ev = document.createEvent("MouseEvents");
+    ev.initMouseEvent(
+        "click", true, false, window, 0, 0, 0, 0, 0
+        , false, false, false, false, 0, null
+        );
+    obj.dispatchEvent(ev);
+}
+
+function export_raw(name, data) {
+    var urlObject = window.URL || window.webkitURL || window;
+
+    var export_blob = new Blob([data]);
+
+    var save_link = document.createElementNS("http://www.w3.org/1999/xhtml", "a")
+    save_link.href = urlObject.createObjectURL(export_blob);
+    save_link.download = name;
+    fake_click(save_link);
+}
+
+function saveText()
+{
+
+var  text =$('#input1').val()
+var title=document.getElementById("title").value
+export_raw(title+'.txt', text);
+
+$.ajax({
+                url:'/save/',
+                type:'POST',
+                data:{text:text,username:{{username}}},
+                success: function (data) {
+                //alert("success!")
+                }
+            });
+}
+
+
+
+function open1(e){
+//alert(e.innerHTML)
+titlestr=e.innerHTML;
+$(function(){
+    var htmlobj = $.ajax({
+        url:"../static/"+titlestr+".txt",
+        async:false
+    });
+    fulltext=htmlobj.responseText
+    document.getElementById("input2").value = fulltext.substr(0,800);
+});
+}
+
+function fullText()
+{
+document.getElementById("input2").value = fulltext
+xietong=xietong+','+titlestr
+//alert(xietong)
+document.getElementById("p2").style.display = "block";
+}
+
+function fullTextR()
+{
+document.getElementById("input2").value = fulltext
+xietong=xietong+","+titlestr
+//alert(xietong)
+document.getElementById("p2").style.display = "block";
+$.ajax({
+                url:'/ajax/',
+                type:'POST',
+                data:{text:titlestr},
+                success: function (data) {
+
+                    //document.getElementById("input2").value = data;
+                    var book=data.split(",");
+                    document.getElementById("p2").style.display = "block";
+
+
+                    for (var i=1; i<6; i++)
+                    {
+                    var x;
+                    x="r"+i;
+                    document.getElementById(x).innerHTML = book[i-1];
+                    document.getElementById(x).style.display = "inline-block";
+                    //document.getElementById(x).setAttribute('href',"http://localhost:8000/static/"+book[i-1]+".txt");
+                   }
+
+                }
+            });
+
+}
+
+function open2(){
+//alert('mmp')
+var str=document.getElementById("t2").innerHTML;
+$(function(){
+    var htmlobj = $.ajax({
+        url:"../static/"+str+".txt",
+        async:false
+    });
+    document.getElementById("input2").value = htmlobj.responseText;
+});
+}
+
+
+
+
+</script>
+</head>
+<!--"onpropertychange"用于ie核心的浏览器，"oninput"用于firefox-->
+
+
+<body onbeforeunload="checkLeave()">
+    <div class="tab1" style="background-color:#B0E0E6">
+            <div class="container-fluid header">
+                    <form method = 'post'>
+                        <p id="welcome">Welcome {{username}}！</p>
+                    </form>
+            </div>
+    </div>
+    
+
+    <div class="tab2" style="background-color:#eee">
+            <div class="container-fluid">   
+                <div class="row">
+                    <div class="col-md-6">
+                        <textarea id="title" class="text1" placeholder="Please enter the title..."></textarea>                                                               
+                    </div>
+                    <div class="col-md-6">
+                        <h3 style="text-align:center">Recommendation</h3>     
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <textarea id="input1"   class="text2" type="text" placeholder="Please enter your writing..." onpropertychange="cop()" oninput="cop()"></textarea>
+                        <button onclick="saveText()" type="button" class="btn btn-primary" id="btn1"><span class="glyphicon glyphicon-folder-close" aria-hidden="true"></span> save as</button>
+                    </div>
+                   <div class="col-md-6">
+                        <textarea id="input2" class="text3" readonly="readonly" ></textarea> 
+                        <button onclick="fullText()" type="button" class="btn btn-success" id="btn2"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> full text</button>
+                        <br>
+                        <span id="p1" style="margin-left:60px;display:none;width:500px;float:left;">Your article style is similar to the following:</span>
+                        <span id="p2" style="margin-left:120px;display:none;width:500px;float:left;">People who read this article also read:</span>
+                        </br>
+                        <p>
+                            <a id="t1" href=" javascript:void(0)" class="he" onclick="open1(this)"></a>
+                            <a id="r1" href=" javascript:void(0)" class="he2" onclick="open1(this)">test</a>
+                            <a id="t2" href=" javascript:void(0)" class="he" onclick="open1(this)"></a>
+                            <a id="r2" href=" javascript:void(0)" class="he2" onclick="open1(this)">test</a>
+                            <a id="t3" href=" javascript:void(0)" class="he" onclick="open1(this)"></a>
+                            <a id="r3" href=" javascript:void(0)" class="he2" onclick="open1(this)">test</a>
+                            <a id="t4" href=" javascript:void(0)" class="he" onclick="open1(this)"></a>
+                            <a id="r4" href=" javascript:void(0)" class="he2" onclick="open1(this)">test</a>
+                            <a id="t5" href=" javascript:void(0)" class="he" onclick="open1(this)"></a>
+                            <a id="r5" href=" javascript:void(0)" class="he2" onclick="open1(this)">test</a>
+                        </p>
+                   </div>
+                </div>                                
+            </div>
+        <div class="container-fluid">
+                
+        </div>   
+    </div>
+
+
+<footer id="footer">
+        <div class="container-fluid center-block">
+          <p style="margin-top:50px"><strong>@制作团队信息</strong></p>
+        </div>
+      </footer>
+
+
+ <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+ <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+ <!-- Include all compiled plugins (below), or include individual files as needed -->
+ <script src="js/bootstrap.min.js"></script>
+
+<script>
+    //   // 使文本框居中
+    //   $(window).load(function () {
+    //     $(".text1").css("margin-left",($(".tab1").width() - $(".text1").width()) / 2 + "px");});
+    //   $(window).resize(function () {
+    //     $(".text1").css("margin-left",($(".tab1").width() - $(".text1").width()) / 2 + "px");
+    //   });
+    //   $(window).load(function () {
+    //     $(".text2").css("margin-left",($(".tab1").width() - $(".text2").width()) / 2 + "px");});
+    //   $(window).resize(function () {
+    //     $(".text2").css("margin-left",($(".tab1").width() - $(".text2").width()) / 2 + "px");
+    //   });
+    //   $(window).load(function () {
+    //     $(".text3").css("margin-left",($(".tab2").width() - $(".text3").width()) / 2 + "px");});
+    //   $(window).resize(function () {
+    //     $(".text3").css("margin-left",($(".tab2").width() - $(".text3").width()) / 2 + "px");
+    //   });
+    //   //让按钮和文本框左对齐
+    //   $(window).load(function () {
+    //     $("#btn1").css("margin-left",parseInt($(".text2").css("margin-left"))  + "px");});
+    //     $(window).resize(function () {
+    //     $("#btn1").css("margin-left",parseInt($(".text2").css("margin-left"))  + "px");});
+    //     $(window).load(function () {
+    //     $("#btn2").css("margin-left",parseInt($(".text3").css("margin-left"))  + "px");});
+    //     $(window).resize(function () {
+    //     $("#btn2").css("margin-left",parseInt($(".text3").css("margin-left"))  + "px");});
+
+</script>
+
+</body>
+</html>
