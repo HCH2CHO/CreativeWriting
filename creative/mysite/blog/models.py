@@ -37,4 +37,5 @@ class fiction(models.Model):
 class history(models.Model):
     user=models.TextField()
     readinglist=models.TextField()
+    score=models.IntegerField()
 

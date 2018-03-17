@@ -1,0 +1,376 @@
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+
+    <!-- Bootstrap -->
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <style>
+        .tab1
+        {
+            background-color:#CCFFFF;
+            height: 7%;
+        }
+
+        #welcome
+        {
+            font-size: 16px;
+            text-align: right;   
+            margin-top: 1%; 
+        }
+
+        .tab2
+        {
+            background-color: #eee;
+            background-image: url(../static/images/bgimg.jpg);
+        }
+
+        .text1
+        {
+            box-shadow: 0px 0px 10px 0px #000;
+            font-size:15px;
+            resize:none;
+            background-color:#FFFFFF;
+            width:100%;
+            height:4%;
+            line-height: 25px;
+            margin: 5% 0 1% 0;
+            overflow: hidden;
+            display: block;
+        }
+
+        .text2
+        {
+            font-size:15px;
+            resize:none;
+            background-color:#FFFFFF;
+            width:100%;
+            height:49%;
+            margin: 2% 0 0 0;
+            display: block;
+        }
+
+        #btn1
+        {
+            margin: 1% auto 0 auto;
+        }
+
+        .text3
+        {
+            font-size:15px;
+            resize:none;
+            background-color:#FFFFFF;
+            width:100%;
+            height:49%;
+            margin: 2% 0 0 0;
+        }
+
+        #btn2
+        {
+            margin: 1% auto 0 auto;
+        }
+
+        footer
+        {
+            background-color: #FFFFFF;
+            text-align: center;
+            height: 8%;
+        }
+
+        .tab3
+        {
+            background-color:#CCFFFF;
+            height: 10%;
+        }
+
+        #rank
+        {
+            margin: 1.5% auto auto auto;
+        }
+    </style>
+
+<title>Creative Writing</title>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="https://raw.github.com/mozilla/pdf.js/gh-pages/build/pdf.js"></script>
+<script type="text/javascript">
+var fulltext
+var xietong=''
+var titlestr
+var usergrade=3
+
+function checkLeave()
+{
+usernm={{username}}
+$.ajax({
+                url:'/xietong/',
+                type:'POST',
+                data:{element1:usernm,element2:xietong,element3:usergrade},
+                success: function (data) {
+                //alert("success!")
+                }
+            });
+
+}
+
+function cop(){
+var str=document.getElementById("input1").value;
+
+
+var  text =$('#input1').val()
+
+$.ajax({
+                url:'/ajax/',
+                type:'POST',
+                data:{text:text},
+                success: function (data) {
+
+                    //document.getElementById("input2").value = data;
+                    var book=data.split(",");
+                    //document.getElementById("p1").style.display = "block";
+
+
+                    for (var i=1; i<6; i++)
+                    {
+                    var x;
+                    x="t"+i;
+                    document.getElementById(x).innerHTML = book[i-1];
+                    document.getElementById(x).style.display = "inline-block";
+                    //document.getElementById(x).setAttribute('href',"../static/"+book[i-1]+".txt");
+                   }
+
+                }
+            });
+
+}
+
+function fake_click(obj) {
+    var ev = document.createEvent("MouseEvents");
+    ev.initMouseEvent(
+        "click", true, false, window, 0, 0, 0, 0, 0
+        , false, false, false, false, 0, null
+        );
+    obj.dispatchEvent(ev);
+}
+
+function export_raw(name, data) {
+    var urlObject = window.URL || window.webkitURL || window;
+
+    var export_blob = new Blob([data]);
+
+    var save_link = document.createElementNS("http://www.w3.org/1999/xhtml", "a")
+    save_link.href = urlObject.createObjectURL(export_blob);
+    save_link.download = name;
+    fake_click(save_link);
+}
+
+function saveText()
+{
+
+var  text =$('#input1').val()
+var title=document.getElementById("title").value
+export_raw(title+'.txt', text);
+
+$.ajax({
+                url:'/save/',
+                type:'POST',
+                data:{text:text,username:{{username}}},
+                success: function (data) {
+                //alert("success!")
+                }
+            });
+}
+
+
+
+function open1(e){
+//alert(e.innerHTML)
+titlestr=e.innerHTML;
+$(function(){
+    var htmlobj = $.ajax({
+        url:"../static/shortfiction/"+titlestr+".txt",
+        async:false
+    });
+    fulltext=htmlobj.responseText
+    document.getElementById("input2").value = fulltext.substr(0,800);
+});
+}
+
+function fullText()
+{
+document.getElementById("input2").value = fulltext
+xietong=xietong+','+titlestr
+//alert(xietong)
+//document.getElementById("p2").style.display = "block";
+}
+
+function fullTextR()
+{
+document.getElementById("input2").value = fulltext
+xietong=xietong+","+titlestr
+//alert(xietong)
+document.getElementById("p2").style.display = "block";
+$.ajax({
+                url:'/ajax/',
+                type:'POST',
+                data:{text:titlestr},
+                success: function (data) {
+
+                    //document.getElementById("input2").value = data;
+                    var book=data.split(",");
+                    document.getElementById("p2").style.display = "block";
+
+
+                    for (var i=1; i<6; i++)
+                    {
+                    var x;
+                    x="r"+i;
+                    document.getElementById(x).innerHTML = book[i-1];
+                    document.getElementById(x).style.display = "inline-block";
+                    //document.getElementById(x).setAttribute('href',"../static/"+book[i-1]+".txt");
+                   }
+
+                }
+            });
+
+}
+
+function open2(){
+//alert('mmp')
+var str=document.getElementById("t2").innerHTML;
+$(function(){
+    var htmlobj = $.ajax({
+        url:"../static/shortfiction/"+str+".txt",
+        async:false
+    });
+    document.getElementById("input2").value = htmlobj.responseText;
+});
+}
+
+
+
+
+
+</script>
+</head>
+<!--"onpropertychange"用于ie核心的浏览器，"oninput"用于firefox-->
+
+
+<body onbeforeunload="checkLeave()">
+    <div class="tab1">
+            <div class="container-fluid header">
+                    <form method = 'post'>
+                        <p id="welcome">Welcome {{username}}！</p>
+                    </form>
+            </div>
+    </div>
+    
+
+    <div class="tab2">
+            <div class="container-fluid">   
+                <div class="row">
+                    <div class="col-md-6">
+                        <textarea id="title" class="text1" placeholder="Please enter the title..."></textarea>                                                               
+                    </div>
+                    <div class="col-md-6">
+                        <h3 style="text-align:center;margin:5% 0 1% 0">Recommendation</h3>     
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <textarea id="input1"   class="text2" type="text" placeholder="Please enter your writing..." onpropertychange="cop()" oninput="cop()"></textarea>
+                    </div>
+                   <div class="col-md-6">
+                        <textarea id="input2" class="text3" readonly="readonly" ></textarea>
+                   </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <button onclick="saveText()" type="button" class="btn btn-primary" id="btn1"><span class="glyphicon glyphicon-folder-close" aria-hidden="true"></span> save as</button>
+                    </div>
+                    <div class="col-md-3">
+                        <button onclick="fullText()" type="button" class="btn btn-success" id="btn2"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> full text</button>
+                        <br>
+                        <span id="p1" style="margin-left:60px;display:none;width:500px;float:left;">Your article style is similar to the following:</span>
+                        <span id="p2" style="margin-left:120px;display:none;width:500px;float:left;">People who read this article also read:</span>
+                        </br>
+                    </div>
+                    <div class="col-md-3">
+                        <button class="btn btn-default" type="submit" style="float:right;margin-top:1%">Grade The Recommendation</button>
+                        <div id="grade" style="float:right;margin-top: 2.5%"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3><span class="label label-default"> First Recommendation</span></h3>
+                    </div>
+                    <div class="col-md-6">
+                        <h3><span class="label label-default"> Second Recommendation</span></h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="list-group" >
+                            <a id="t1" href=" javascript:void(0)" class="list-group-item" onclick="open1(this)"></a>
+                            <a id="t2" href=" javascript:void(0)" class="list-group-item" onclick="open1(this)"></a>
+                            <a id="t3" href=" javascript:void(0)" class="list-group-item" onclick="open1(this)"></a>
+                            <a id="t4" href=" javascript:void(0)" class="list-group-item" onclick="open1(this)"></a>
+                            <a id="t5" href=" javascript:void(0)" class="list-group-item" onclick="open1(this)"></a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="list-group">
+                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)">test</a>
+                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)">test</a>
+                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)">test</a>
+                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)">test</a>
+                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)">test</a>
+                        </div>
+                    </div>
+                </div>                                        
+            </div>
+        <div class="container-fluid">
+                
+        </div>   
+    </div>
+
+
+<footer id="footer">
+        <div class="container-fluid center-block">
+          <p style="margin-top:1.5%"><strong>@制作团队:Urban Playground</strong></p>
+        </div>
+      </footer>
+
+
+ <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+ <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+ <!-- Include all compiled plugins (below), or include individual files as needed -->
+ <script src="../static/js/bootstrap.min.js"></script>
+ <script src="../static/js/jquery.raty.js"></script>
+ <script>
+
+    $('#grade').raty({
+        path: '../static/images',
+        starOff: 'star-off-big.png',
+        starOn: 'star-on-big.png',
+        hints:['unsatisfied','regular','satisfied'],
+        size: 24,
+        number: 3,
+        cancel: true,
+        click: function(score,evt) {    //用户评级后的回调函数,score是分数
+        usergrade=score;
+        alert("Grade Successfully")}
+    });
+
+ </script>
+</body>
+</html>

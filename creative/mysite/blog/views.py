@@ -112,7 +112,7 @@ def save(request):
 
 @csrf_exempt
 def datadeal(request):
-    for root, dirs, files in os.walk("blog\\static\\"):
+    for root, dirs, files in os.walk("blog\\static\\shortfiction"):
         for file in files:
             try:
                 txt = open(root + '\\' + file, 'r')
@@ -140,15 +140,19 @@ def datadeal(request):
 
 @csrf_exempt
 def xietong(request):
-    name = request.POST.get('element')
+    print("get return")
+    name = request.POST.get('element1')
     readlist = request.POST.get('element2')
-    print(readlist)
-    #print("在哪里")
+    score=request.POST.get('element3')
+
+    #print(readlist)
+    #print(name)
     '''
     with open("based on user.txt", "a") as f:
         f.write(a+'\n')
     '''
-    history0=history(user=name,readinglist=readlist)
+    history0=history(user=name,readinglist=readlist,score=score)
+    #history0 = history(readinglist=readlist, score=score)
     history0.save()
 
     return HttpResponse(len(readlist), content_type='application/json')
@@ -213,7 +217,7 @@ def loginc(request):
     userResult = User.objects.filter(username=un, password=pw)
     # pdb.set_trace()
     if (len(userResult) > 0):
-        return render_to_response('add.html', {'username': un})
+        return render_to_response('cwrs.html', {'username': un})
     else:
         return render_to_response('CreativeWriting.html',{"errors": "Username or password is incorrect!"})
 

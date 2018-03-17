@@ -35,7 +35,8 @@ class fnGramAlgo(object):
         self.ngrams={}
         self.sl=0  #句子的平均单词数
         self.wl=0  #每100个词的平均音节数
-        
+        self.RE=0
+
     def cleanText(self):
         fictionT = re.sub('\n+', " ", self.fiction).lower() # 匹配换行用空格替换成空格,大写转换成小写
         fictionT = re.sub(' +', " ", fictionT) #  把连续多个空格替换成一个空格
@@ -85,10 +86,12 @@ class fnGramAlgo(object):
             sen.strip(string.punctuation)
             if len(sen.split())<2:
                 i=i+1
-        self.sl=self.words/(len(fictionList)-i)
-        self.wl=self.wl/self.words*100
-        self.RE=206.835-0.846*self.wl-1.015*self.sl
-        #print (self.wl,self.sl,RE)
+        #print(self.words)
+        if (len(fictionList) !=1):
+            self.sl=self.words/(len(fictionList)-i)
+            self.wl=self.wl/self.words*100
+            self.RE=206.835-0.846*self.wl-1.015*self.sl
+            #print (self.wl,self.sl,RE)
         return self.RE
     
     def returnwords(self):
@@ -123,10 +126,10 @@ class fTFIDF(object):  #该部分可改进，提高速度
          reDict={}   #TFIDF字典      
          for tword in einputArticle:
              #TF,IDF的计算
-    	     if tword in eallDict:
-             	TF=100*einputArticle[tword]/earticleWords
-             	IDF=math.log(self.cout)-math.log(eallDict[tword])
-             	reDict[tword]=TF*IDF
+             if tword in eallDict:
+                TF=100*einputArticle[tword]/earticleWords
+                IDF=math.log(self.cout)-math.log(eallDict[tword])
+                reDict[tword]=TF*IDF
              
          sortTFIDF=sorted(reDict.items(), key = lambda t:t[1], reverse=True) 
          cout=0
@@ -151,7 +154,7 @@ class fTFIDF(object):  #该部分可改进，提高速度
             articleList.append([karticle,sim1,sim2,sim1+sim2])
         return articleList
 
-def cosVector(cosVectorList1,cosVectorList2): #基于空间向量的余弦算法
+def cosVector(cosVectorList1,cosVectorList2): #基于空间向量的余弦算法 1为文库文章，2为输入文章
     numerator=0
     denominator1=0
     denominator2=0
@@ -163,8 +166,10 @@ def cosVector(cosVectorList1,cosVectorList2): #基于空间向量的余弦算法
         
     for word2 in cosVectorList2:
         denominator2+=cosVectorList2[word2]*cosVectorList2[word2]
-        
-    similiarity=numerator/(math.sqrt(denominator1)*math.sqrt(denominator2))
+    if (denominator2!=0):
+        similiarity=numerator/(math.sqrt(denominator1)*math.sqrt(denominator2))
+    else:
+        similiarity=0
     return similiarity
 
     
