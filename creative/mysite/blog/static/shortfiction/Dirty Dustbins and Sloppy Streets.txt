@@ -1,0 +1,610 @@
+PREFACE.
+Some portions of the following pages have already appeared in the monthly numbers of the Sanitary Engineer, and the complete work is now published with a view to assist Surveyors of Towns and others who are directly engaged in providing that house dustbins shall be regularly cleared, and streets kept clean; and also in the hope that it may be the means of drawing some public attention to the question, thus showing the householder something of what is being done for his welfare by Sanitary Authorities, and how each individual may assist in the good work, instead of, as is now frequently the case, inadvertently or purposely retarding the execution of some very necessary though unostentatious sanitary measures. I am not aware that any book, or even pamphlet, has yet been written on this subject, and I venture to believe that in these pages there may be found something to interest all readers.
+
+H. P. B.
+Exeter, May, 1881.
+Chapter I. "SCAVENGING."
+The word "Scavenging," or "Scavengering," as it is frequently styled, is a very comprehensive term, as it includes that of house scavenging or the removal of house refuse, and also that of street scavenging, or the sweeping and cleansing of streets, and the carting away of all such materials removed from their surface. In dealing with this subject it will be necessary to consider the following heads, viz.:—(1) What is house refuse, (2) How and in what manner shall it be temporarily stored pending the visit of the Scavenger, (3) What are the best methods for its collection, (4) In what manner shall it be eventually disposed of, and (5) the cost of the whole work; (6) Which are the best methods for sweeping and cleansing streets, (7) Whether machinery is more economical than hand labour, (8) The extra work involved by the ill construction of streets and the materials of which they are formed, (9) Whether private courts and alleys not repairable by the Sanitary Authority should be swept and cleansed by[2] them, (10) The ultimate disposal of excessive accumulations of mud, (11) The removal and disposal of snow, (12) The watering of streets, and (13) The cost of all such work.
+
+The Public Health Act of 1875 contains several clauses bearing on the subject of scavenging and the cleansing of streets, and sec. 42, part III., enacts as follows:—
+
+"Every local authority may, and when required by order of the Local Government Board shall, themselves undertake or contract for—
+
+"The removal of house refuse from premises;
+
+"The cleansing of earth closets, privies, ashpits, and cesspools; either for the whole or any part of their district.
+
+"Moreover, every urban authority and rural authority invested by the Local Government Board with the requisite powers may, and when required by order of the said Board shall, themselves undertake or contract for the proper watering of streets for the whole or any part of their district.
+
+"All matters collected by the local authority or contractor in pursuance of this section may be sold or otherwise disposed of, and any profits thus made by an urban authority shall be carried to the account of the fund or rate applicable by them for[3] the general purposes of this Act; and any profits thus made by a rural authority in respect of any contributory place shall be carried to the account of the fund or rate out of which expenses incurred under this section by that authority in such contributory place are defrayed.
+
+"If any person removes or obstructs the local authority or contractor in removing any matters by this section authorised to be removed by the local authority he shall for each offence be liable to a penalty not exceeding five pounds: provided that the occupier of a house within the district shall not be liable to such penalty in respect of any such matters which are produced on his own premises and are intended to be removed for sale or for his own use and are in the meantime kept so as not to be a nuisance."
+
+Section 45 also enacts that "any urban authority may, if they see fit, provide in proper and convenient situations receptacles for the temporary deposit and collection of dust, ashes, and rubbish; they may also provide fit buildings and places for the deposit of any matters collected by them in pursuance of this part of this Act."
+
+The Act also gives the power to local authorities to make bye-laws with respect to the cleansing of footpaths[4] and pavements, the removal of house refuse and the cleansing of earth closets, privies, ashpits, and cesspools, and the prevention of nuisances arising from snow, filth, dust, ashes, and refuse.
+
+It will thus be seen that the Legislature find it necessary to frame laws for the proper execution of scavenging by every local authority, and we shall see in the following chapters how further clauses in the Public Health Act, as well as in many private Improvement Acts and also in Bye-laws, detail the manner in which this work ought to be properly carried out. I shall further endeavour to show where errors in the working now exist, and give some suggestions that would, in my opinion, be, if carried out, improvements upon the present systems.
+Chapter II. HOUSE REFUSE.
+Now the first question that presents itself to us is: what is house refuse? and how is it to be defined? for unless this point is satisfactorily settled, great onus and expense will be put on the local authority if they are to be compelled to remove all trade, garden, and other refuse in addition to what may be legally entitled house refuse.
+
+Section 4, part I., Public Health Act, 1875, contains the following definition of the word house: "House" includes schools, also factories and other buildings in which more than twenty persons are employed at one time. But all that is apparently said in reference to the definition of refuse is to be found in "Glenn's Public Health Act," 1875, where in a foot note to section 44, part III. of the before named Act, is the negative argument "what is not refuse:" and describes one or two cases in which it was held that certain ashes from furnaces, etc., were to be designated as "trade refuse," and further says "that the intention of the Act was that only the[6] rubbish arising from the domestic use of houses should be removed."
+
+On reference, however, to some local Improvement Acts, it appears that the definition is given more in detail, for we find that house refuse is there described as "all dirt, dust, dung, offal, cinders, ashes, rubbish, filth, and soil."
+
+We may thus, we imagine, be fairly content with these definitions, and may assume that all house refuse legally so designated, and which it is the duty of the scavenger to remove, is really so removed by the direction of the local authority without dispute, but that the following articles, which frequently find their way into a domestic dustbin, are not in the strict terms of the Act expected to be removed by the scavenger, viz., (1) plaster from walls and brick bats, (2) large quantities of broken bottles and flower pots, (3) clinkers and ashes from foundries and greenhouses, (4) wall papers torn from the rooms of a house, (5) scrap tin (but not old tins which have contained tinned meats and which, although very objectionable and bulky, may be fairly assumed to be house refuse), and (6) all garden refuse such as grass cuttings, dead leaves, and the loppings from trees and shrubs. The Bromley Local Board issue a card on which is printed, amongst other information with[7] reference to the contract for the removal of house refuse, the following:—"It is hoped that householders will as far as possible facilitate the systematic removal of refuse by providing suitable dustbins, and directing their servants that ordinary house refuse only shall be deposited in such receptacles. The following are some of the items of refuse which the contractors are bound to remove, viz.:—cinder ashes, potatoe peelings, cabbage leaves, and kitchen refuse generally. But the contractors are not required to remove the refuse of any trade, manufacture, or business, or of any building materials or any garden cuttings or sweepings." Some valuable statistics have recently been prepared by me from answers obtained from upwards of ninety of the principal cities, and towns in England, in reply to a series of questions which I addressed to the local surveyors on the subject of scavenging, and on referring to these statistics it is found that out of these ninety towns, the authorities of only thirteen of them direct the removal of both trade and garden refuse without any special extra payment being made by the householder, but that this is only done when these materials are placed in the ordinary dustbin or ashpit attached to a house. Several towns, however, it appears remove such[8] materials on special payments being made of sums varying from 1s. 6d. to 3s. per load.
+
+Disputes frequently arise between the men employed in scavenging and the householder on these vexed questions as to the difference between house, trade, or garden refuse, a dispute often raised by the scavengers themselves, in the hope of obtaining a gratuity or reward for the clearance of a dustbin which no doubt, legally, they are perfectly justified in refusing to empty, and in order to lessen the chance of such disputes and to attempt to settle this question the following suggestions may be of value.
+
+It would no doubt be vexatious if any sanitary authority were to absolutely refuse to remove the "garden" refuse from those houses to which a small flower garden was attached, whilst it would on the contrary be an unfair tax upon the general community if the refuse of large gardens was removed without payment. A good rule would therefore be to remove only such garden refuse as was contained in the ordinary dustbin or ashpit attached to a house, and that as the removal of any kind of trade refuse would no doubt lead to abuses if done gratuitously by the sanitary authority, that this material should only be removed on payment of some sum, which should be previously fixed by the Local Authority,[9] and each case should be reported to the officer superintending the work before it was removed.
+
+There are, of course, in addition to the ordinary house refuse the waste materials from the surface of the streets, and from markets and slaughter-houses, which have to be collected and disposed of by the Local Authority, but these materials should be collected in a special manner, independently of the ordinary removal of the house refuse.
+
+Chapter III. THE DUSTBIN.
+The next question that we have to consider, having thus far discussed the subject of "what is house refuse," is the important one of the manner and place in which it shall be temporarily stored pending the visit of the scavenger. I will begin as I did in the former case by turning to the law on the subject, and find out if it can help us.
+
+Section 40, part III., of the Public Health Act of 1875 enacts that: "Every local authority shall provide that all drains, water-closets, earth-closets, privies, ashpits, and cesspools within their district be constructed and kept so as not to be a nuisance or injurious to health."
+
+And section 35 of the above Act states, "It shall not be lawful newly to erect any house or to rebuild any house pulled down to or below the ground floor without a sufficient water-closet, earth-closet, or privy, and an ashpit furnished with proper doors and coverings. Any person who causes any house to be erected or rebuilt in contravention of this[11] enactment shall be liable to a penalty not exceeding twenty pounds."
+
+The Act also gives power to local authorities to enforce provision of ashpit accommodation for houses where such accommodation does not already exist, and to frame bye-laws with respect to ashpits.
+
+In the year 1877 the Local Government Board issued a series of model bye-laws for the use of sanitary authorities, and No. IV. of this series, which is upon "New Streets and Buildings," contains the following six lengthy clauses, regulating the position of an ashpit with reference to a dwelling-house or public-building, or to any water supply, and for the purpose of removing its contents without carrying them through any dwelling-house, &c.:—
+
+"80. Every person who shall construct an ashpit in connection with a building shall construct such ashpit at a distance of six feet at the least from a dwelling-house or public building, or any building in which any person may be, or may be intended to be employed in any manufacture, trade, or business.
+
+"81. A person who shall construct an ashpit in connexion with a building shall not construct such ashpit within the distance of __ feet from any water supplied for use, or used or likely to be used by[12] man for drinking or domestic purposes, or for manufacturing drinks for the use of man, or otherwise in such a position as to endanger the pollution of any such water.
+
+"82. Every person who shall construct an ashpit in connexion with a building shall construct such ashpit in such a manner and in such a position as to afford ready means of access to such ashpit for the purpose of cleansing such ashpit, and of removing the contents thereof, and, so far as may be practicable, in such a manner and in such a position as to admit of the contents of such ashpit being removed therefrom, and from the premises to which such ashpit may belong, without being carried through any dwelling-house or public building, or any building in which any person may be, or may be intended to be employed in any manufacture, trade, or business.
+
+"83. Every person who shall construct an ashpit in connection with a building shall construct such ashpit of a capacity not exceeding in any case six cubic feet, or of such less capacity as may be sufficient to contain all dust, ashes, rubbish, and dry refuse which may accumulate during a period not exceeding one week upon the premises to which such ashpit may belong.
+
+[13]
+
+"84. Every person who shall construct an ashpit in connection with a building shall construct such ashpit of flagging, or of slate, or of good brickwork, at least nine inches thick, and rendered inside with good cement or properly asphalted.
+
+"He shall construct such ashpit so that the floor thereof shall be at a height of not less than three inches above the surface of the ground adjoining such ashpit, and he shall cause such floor to be properly flagged or asphalted.
+
+"He shall cause such ashpit to be properly roofed over and ventilated, and to be furnished with a suitable door in such a position and so constructed and fitted as to admit of the convenient removal of the contents of such ashpit, and to admit of being securely closed and fastened for the effectual prevention of the escape of any of the contents of such ashpit.
+
+"85. A person who shall construct an ashpit in connexion with a building shall not cause or suffer any part of such ashpit to communicate with any drain."
+
+There can be no doubt that the position of the dustbin or ashpit, as regards its site with reference to the main dwelling-house, is of primary sanitary importance, for if the garbage and domestic accumu[14]lations therein are allowed to remain for a few days, especially when the weather is close, damp, and warm, they become very offensive, and the emanations therefrom may even be highly deleterious and dangerous to health; this effect is aggravated by persons emptying vegetable refuse and other matters which are wet into the dustbin, as decomposition of these matters is greatly assisted by this addition, and it would be well that all such matters should be burnt on the kitchen or scullery fire along with a large percentage of the ashes which could be sifted and saved from those which too readily find their way into the dustbin, and are thus wasted. Care would of course have to be taken in this process that no smell or nuisance was caused by burning this refuse, but the greatest difficulty would arise in overcoming the time-honoured prejudices of the domestic servant who usually finds the dustbin or ashpit the most convenient and least troublesome place to dispose of nearly everything that to her may be entitled rubbish.
+
+Now with all due respect to those who framed Section 35 of the Public Health Act of 1875, it is open to considerable doubt whether the fixed dustbin or ashpit, as it is there styled, is the best and most sanitary receptacle for the house refuse. They may[15] be necessary and suitable for Public Institutions, or for large isolated private dwellings, or for schools or any places where excessive quantities of refuse may accumulate, but where this refuse is systematically and properly removed by the order of the local authority, at such times and in such manner as will be hereafter pointed out, a movable or portable dustbin, box, or basket, is far preferable to the large immoveable inconvenient fixed ashpit, recommended and enforced under the Act.
+
+This portable dustbox should be of such dimensions that the men employed in removing the refuse could easily carry it out and empty its contents into the cart, and there is nothing to prevent more than one being provided, if it is found insufficient for the requirements of the household. The box should be made of iron, or wood or basket lined with tin, or some equally impervious material, so that it can easily be washed out and thoroughly cleansed and disinfected when found necessary to do so, a matter very difficult to accomplish with the fixed ashpit. The whole of its contents could be quickly emptied, which is more than can be easily effected with the fixed ashpit, and then only when very special arrangements are made for its drainage. The movable dustbox can, in addition to these advantages, be[16] placed in any part of the premises, and may be covered or not as may be deemed desirable, and need not, like many of the existing ashpits, be fixed in such a position as to appear to have been thus placed for the express purpose of poisoning with its foul smell the whole of the inhabitants in its vicinity. The movable box can also be readily taken out to the scavenging cart by the householder himself, a very essential requisite, as will be shown in the next chapter.
+Chapter IV. THE COLLECTION OF HOUSE REFUSE.
+The collection of house refuse should be done satisfactorily, expeditiously, and economically.
+
+At the present time there seem to be only three methods by which this is attempted to be effected; they are as follows:—
+
+(1.) By a house to house call at intermittent periods.
+
+(2.) By the scavengers giving notice of their approach by ringing a bell or by other signal, and requiring the householder to bring out the refuse to the cart, and
+
+(3.) By placing public dustbins in different localities, and expecting householders in their vicinity to place the house refuse in these dustbins, which would then be cleared from time to time by the local authority.
+
+The law is silent on the subject of what may be considered as an efficient collection and removal of house refuse, and experience only can teach us the best manner of thoroughly effecting this work without[18] losing sight of the economical side of the question; but it appears, on again referring to the table of statistics which have been previously mentioned, that nearly all the towns adopt the two first methods mentioned above for the removal of the house refuse, but that very few of them are able to adopt any public dustbins or "lay stall" accommodation for the temporary reception of the refuse, not only on account of their first cost, but also from the difficulty of finding suitable positions for them. This latter objection to the adoption of public dustbins arises in great measure from the fact that they are usually constructed of galvanised iron in the form of open boxes or troughs, which are readily accessible to young children and poultry, who often scatter their contents in every direction, and they are also generally open to the view of the inhabitants of the courts, and to passers by, whose "morale" it is found is certainly not improved by constant familiarity with the sight of filth.
+
+If these dustbins were constructed with properly balanced self-closing lids, these objections would be overcome, and their first cost would be but trifling when compared with the benefit to be derived by placing them in some of the thickly populated courts and alleys which are unfortunately to be found in[19] nearly every town. Where there are no public dustbins the inhabitants of these courts throw their waste products upon the surface of the streets or courts, from time to time throughout the day, as it cannot be expected nor desired that such materials should remain, even for twenty-four hours, in their one living room, which is frequently over crowded, and has but little spare space even for the common necessities of life; but that these waste products should be thus strewn over the surface of the street or court is almost equally objectionable, and points to the enormous advantage to be gained by placing in convenient situations the covered dustbins that are described above, the contents of which could be easily emptied once a day.
+
+The greatest difficulty would be found to be that of inducing the inhabitants to take the trouble to carry their house refuse to the dustbin, but they might be gradually educated up to this standard of cleanliness, and a few persons judiciously summoned and punished "pour encourager les autres," when detected in throwing any of their waste products on to the surface of the street or court, would no doubt have a very beneficial effect in assisting their education.
+
+With reference to the question of a house to house call or visitation by the scavengers for the purpose of[20] removing the refuse. This is no doubt the method "par excellence" of all the systems for its effectual removal without much trouble to the householder, but except in suburban districts and for the collection of refuse from the better class of dwelling-houses and public institutions, the expense, delay, and difficulty which would be incurred in calling at every house throughout a town, would make it almost impracticable, and consequently this system is universally combined with that which is known as the bell or signal system, which simply means that the scavenging cart in going its rounds has a bell attached to it, or the horse, which bell rings automatically as the cart proceeds on its way; or the man in charge blows a trumpet, or calls in stentorian tones, "Dust oh!" On hearing this signal, but not before, the householder is expected to bring out the refuse in some convenient receptacle, which is then emptied into the cart by the scavenger.
+
+As a matter of fact, the receptacles containing all the waste products of these householders are brought out and are placed in the gutter of the street close to the kerb, long before the cart makes its appearance or can be reasonably expected to do so.
+
+These temporary receptacles are, as may be easily imagined of various sizes and shapes, and are com[21]posed of various materials. On one side you may see a well and suitably constructed galvanized iron box, with handles and cover complete, on the other an old band box, cigar box, or tin saucepan.
+
+The result of these inappropriate receptacles filled with heterogeneous collections of house refuse being left unprotected in the public streets, is that their contents are quickly strewn about the surface of the street, either by their being upset accidentally, or purposely, by persons who gain a precarious livelihood by abstracting therefrom, and selling rags, bones, and similar articles, or by the dogs, ever on the alert for a hasty and disgusting meal, and the appearance of the street which has probably been carefully swept and garnished during the night or early in the morning, quickly assumes, especially in a high wind, a very offensive character, and probably has to be entirely re-swept and cleansed before the ordinary traffic of the day commences.
+
+To obviate these evils arising from this practice almost universally adopted, I suggest the following plan:—
+
+A specially designed frame or carriage must be constructed somewhat similar in appearance to a timber waggon; this must be furnished with a number of strong iron hooks, with or without simple[22] lifting gear, according to the strength and sizes of the receptacles hereafter described. Upon these hooks are to be hung cylindrical shaped galvanized iron boxes with balanced covers, and hopper-shaped mouths, and of such cubical capacity as may be found to meet the requirements of any district choosing to adopt my system. The modus operandi would be as follows:—The waggon should be drawn through certain selected streets at about 6.30 a.m.; the boxes or cylinders unhung from it, and placed in such suitable and convenient positions as may be found necessary; their distance apart may be about that of the ordinary street lamp posts, and their position may be in the street channel gutter close to the kerb of the footpath; they should be allowed to remain about a couple of hours, during which time the householders in the vicinity of the boxes would be expected to empty into them all the sweepings, garbage, and house refuse from their premises; at the end of this time the waggon would again appear, and the boxes or cylinders would be attached to the hooks, and be taken to the nearest refuse dep?t.
+
+There are many advantages to be gained by adopting my proposed system, the principal one being that of preventing the disgusting practice of allowing the foul refuse from houses, to be openly displayed in the[23] public streets, in the manner previously described, and in preventing the possibility of such refuse being allowed to stay for a single instant upon the surface of the street, where even if it is afterwards carefully removed, an ugly stain is almost sure to remain for many hours afterwards.
+
+Another advantage would be the great convenience to householders of that of having a ready receptacle for their refuse, only a few yards at the most from their doors.
+
+The saving of time also in the collection would be considerable, as the scavengers need not wait one single moment beyond the time required to attach the cylinder to the waggon, and there is in addition the cleanliness with which this operation could be performed, thus conferring a great boon on the foot passengers in the streets, who, under the present system, are often half smothered by the dust when the scavengers are engaged in emptying the contents of the usual inappropriate receptacles into the ordinary dust cart.
+
+The facilities also for cleansing or disinfecting the cylinders would be undoubted, and the economy, not only in time but in actual expense over the existing system, would be considerable, for the cylinders would last a long time without repairs being needed;[24] not so the ordinary dust cart, which speedily wears out, principally from the fact that the "tipping" necessary to empty it of its contents, is highly detrimental to its stability.
+
+Having thus shown a method by which the collection of house refuse in crowded streets, where a house-to-house visit is impracticable, can be materially improved, I will pass on to the present system of the collection of refuse in the suburban and rural districts of a town by a house-to-house call.
+
+A great improvement in this system would no doubt be effected by adopting the movable dust boxes I suggest in the chapter on "The Dustbin," as great delay and consequent expense would be saved thereby, and the work would be altogether more effectually and properly performed, but it is also found that very frequently the scavengers on calling at a house for the purpose of removing the accumulated refuse, are told by the servant that they cannot be admitted, either because it is an inconvenient hour, or that it is washing day, or that being a wet day the scavengers' boots are too dirty to walk over their clean passages or floor, or that the dustbin is not full, and that they must call another day, or some other equally plausible excuse, so that the visit is a useless one, and time is lost. Another evil[25] arising out of this is also the fact that as the scavenger's cart has usually a regular round, a fruitless visit as described, results in the dustbin remaining uncleared for perhaps another week, or even more, a state of things not at all to be desired.
+
+In order to assist in obviating the chances of such useless visits by the scavengers, I would suggest a very simple remedy, which has already been tried in some towns with considerable success. It consists in the householder placing a card bearing the letter D, or some other distinguishing mark, in a conspicuous place in a window, when the services of the scavengers are required; these cards should be printed and circulated by the Sanitary Authority of the district, who should state on the back of the card the days on which the scavengers would visit each neighbourhood, with the approximate hour of the day in which they would appear, in each road or street if practicable, in order that the householder may not be unnecessarily inconvenienced by being obliged to keep the card for any length of time in his window.
+
+The scavengers in passing, observe the signal, and call at the house, otherwise they pass on, unless specially called in by the occupants, thus avoiding any unnecessary delay in their rounds.
+
+A visit from the scavengers either before seven or[26] after ten in the morning is generally very inconvenient for households of a superior class, and should be, if possible, carefully avoided by the Sanitary Authority.
+
+Chapter V. THE SCAVENGER'S CART.
+The next question that presents itself to our notice is that of the form, style, and construction of the cart usually employed in this work of house refuse collection, and whether it is well suited for the requirements of the work or otherwise.
+
+The cart usually employed is that known as the ordinary "tip cart," strongly, if not clumsily, constructed of an oak frame, with elm or deal sides of considerable height; it holds about a couple of cubic yards of materials, and generally costs from sixteen to twenty pounds.
+
+These carts are not only clumsy and heavy, but they give an overweighted diminutive appearance to the horse between the shafts, especially as the quality of horse employed for work of this character is frequently none of the best, and as a matter of fact the cart is so ill-balanced that the bulk of its weight is thrown upon the back of the horse. The height, too, of the cart is often so great as to necessitate the use of a short ladder, up which the scavenger has to[28] climb, before he can discharge the contents of his basket into the cart, sending in the process a shower of offensive dust in every direction, far from pleasant for those unfortunate persons who happen to be passing near the spot at the time. When used as "slop" carts the same objections arise, as in this case the liquid mud is splashed in every direction, owing to the height to which it has to be thrown by the shovel of the scavenger.
+
+Some difficulty is also experienced in thoroughly covering over the contents of the cart, so that not only shall it be hidden from the eye, but that it shall prevent either the liquid mud from being spilled on the ground, or if the cart is being used to convey either dust or house refuse, to prevent the contents being blown about, or dropped upon the surface of the street.
+
+The imperfect mode at present adopted is to cover the cart with a tarpaulin, which is tied down as tightly as the circumstances of the case will admit, but which as a rule does not effectually answer the purpose for which it is intended. In towns where the house refuse is not collected separately from the road scrapings, a judicious mixture of the two in the cart considerably assists in preventing any mud slopping or dust blowing.
+
+[29]
+
+The material being wood of which these carts are constructed, it becomes a difficult matter either to effectually cleanse them after use, or to properly disinfect them, which in times of any serious outbreak of an epidemic is essential to the sanitary well-being of a community. The employment also of wooden carts for this work is bad economy, their rough usage, and the mode adopted for emptying them by "tipping," rendering their life but a short one, a cart in constant work frequently costing from four to five pounds per annum in repairs, and having but very little of the original material of which it was constructed left in it at the end of six years.
+
+With a view to obviate these and other objections, several improved carts and waggons have been introduced by different makers, who have styled them by a variety of names, in order to recommend them to the notice of the public. Amongst other names they are called dust carts, general purpose carts, sanitary carts, slush carts, tumbler carts, mud waggons, tip waggons, slop waggons, &c.
+
+They are generally constructed with iron bodies fixed upon wooden frames on wheels; they are of various forms and designs, the principal objects aimed at being lightness of construction combined with strength, so balanced as to bear with a minimum[30] of weight upon the horse; economy in their cost has not been lost sight of, and they are usually provided with some special means for emptying, either by being completely inverted by a chain and windlass, or by some mechanical arrangement of the tailboard; they are built very low upon their axles, so as to be easily filled, are either completely covered over with a moveable lid, or are fitted with hinged side boards, so as to prevent any splashing over of their contents, and as they are nearly all constructed with iron, they are easily cleansed and disinfected whenever it is thought necessary to do so.
+
+Amongst others I may mention the following firms who have made the construction of these sanitary carts and waggons a speciality:—Messrs. Bayley & Co., Newington Causeway, London; Messrs. Cocksedge & Co., of Stowmarket; the Bristol Waggon Works Company; and Messrs. Smith & Son, of Barnard Castle, Yorkshire.
+Chapter VI. DISPOSAL OF HOUSE REFUSE.
+Having proceeded thus far with my subject, the very important question next arises as to the manner of the disposal of the house refuse after it has been collected by the Local Authority, both with regard to its sanitary aspect and also to that of economy.
+
+So much depends upon the position of every town and the character of the district in which it is situated, that no hard and fast lines can be laid down in reply to this question, if, however, the town is fortunate enough to be the centre of an agricultural district, or there are ready and economical means of conveying the refuse there, no difficulty should be experienced in disposing of it, if not altogether at a profit, at least at a small loss upon the cost of collection, as farmers and market gardeners will readily buy house refuse at prices varying from sixpence to three shillings a load to use as a top dressing or manure upon their land, and a very rich and fertilizing manure it makes, notwithstanding the outcry that is sometimes raised against it that it[32] produces rank weeds, owing to the seeds of such vegetation being found in every domestic dustbin, the fact really being that all manures will foster and help the growth of weeds, as well as cereals or roots, and the appearance of a prolific crop of weeds points rather to bad and careless farming than to the use of inferior manure.
+
+In order to suit the convenience of the customers for refuse, and in order to prevent any delay in its collection from the houses, it is necessary for every town to provide one or more dep?ts in which the refuse may be so deposited from day to day as it is collected.
+
+The site of each dep?t should be very carefully selected, bearing the following requisitions in mind:—
+
+They should not be at greater distances from the town than would allow the carts to make from three to four journeys a day, and it is evident that their position should, so much as possible, avoid the necessity for the carts to pass through the town when full; they must also be placed so as to be readily accessible to the carts and waggons of the farmers, the customers, and above all, they must be so situated with regard to any dwelling-houses or public roads as not to cause any nuisance, or be injurious to health in any possible manner, and for this purpose[33] a knowledge of the prevailing wind in that neighbourhood would be useful, and care must also be taken that no stream or water-course from which the supply of any drinking water is obtained is likely to become polluted by having such an unpleasant neighbour as a "refuse dep?t."
+
+The dep?t need only be an open field securely railed off against trespassers or pilferers, but as it generally swarms with countless numbers of rats, it is just as well that no stacks or barns should be erected in its vicinity, if their owner has any wish to preserve his corn.
+
+In this dep?t, the site of which has been selected with all due care, the refuse should be made up into measured heaps, a convenient size for them being found to be twelve feet square by six feet high; these heaps are then sold as they stand to farmers and others who send their carts and waggons to remove them, thus preventing any possibility of mistake or dispute arising as to the number of loads each customer pays for and receives. The refuse, when first brought into the dep?t, is far more bulky than it afterwards becomes, and it shrinks nearly twelve per cent. after a few months' exposure to wind and rain; it is therefore necessary to unload each cart as it arrives from the town on to an enormous heap or[34] mound, from the other end of which the measured heaps are made up after the material has become stale and sunken. Another cause for the shrinkage and reduction of bulk of house refuse after reception at the dep?t is the necessary removal of all the old tins, broken crockery, broken flower pots, &c., before it can be sold to the farmer, and a very difficult matter it is to know how to deal with this heterogeneous mass of absolutely useless articles thus left behind, unless they can be used for bottoming roads, or for agricultural or for deep land drainage, or for filling up hollows of land not afterwards intended to be built upon, when these materials would be very useful and acceptable for such purposes, otherwise they must be kept and allowed to cumber the ground until some such use can be assigned to them.
+
+All towns are not so conveniently situated with regard to their surrounding neighbourhood, as will permit their authorities to sell the collected house refuse to farmers, market-gardeners, or others, for use as manure, and in such cases, where they cannot do so, other measures must be resorted to, in order to dispose of it in the most economical and sanitary manner.
+
+Among the numerous questions that I addressed to the various towns of England when engaged in[35] preparing the returns to which reference has already been made, was one to the following effect:—"How is the refuse disposed of after collection?"
+
+Many and various were the replies to this. Amongst them were the following:—
+
+In many towns it is stated that the whole of the refuse is used by brick makers, in others it is simply "tipped to waste." In one case the answer is, "Sold by auction twice a year," but to whom it is sold, and for what purpose, does not transpire. In some towns it appears to be mixed with lime and used as manure upon the fields, and in others it is mixed with the sludge of the sewage farms, and is then ploughed or dug into the soil of the farm. This seems a better plan than that of another town, where it is "given or thrown away," although the difficulty of disposing of the old iron, tins, &c., is not touched upon in any of the foregoing answers. The next reply states that "it is riddled, and the cinders and vegetable refuse are burnt to generate steam, the fine dust is used with the manure manufactory (tub system), the old iron is sold, and the pots, &c., used for the foundations of roads." In one case the whole of the refuse is taken out to sea in hopper barges, and sunk in deep water. In a great number of towns it is sold by tender for the year, but what[36] eventually becomes of it does not transpire. But the most favoured methods, where it cannot be sold as manure to farmers, seem to be either that of carting it away to some spot outside the town, and there using it for the purpose of filling up hollows and depressions, or that of giving or selling it to brick-makers.
+
+The practice of filling up hollow places with either house refuse or street sweepings cannot be too strongly deprecated, as it stands to reason that some object is in view when these hollows are thus filled up, and we may be sure that the object is that of transforming inconvenient and impracticable pieces of ground into convenient building sites, whereon, sooner or later, eligible villas make their sudden appearance, almost with the rapidity of Aladdin's Palace, under the magic hand of a jerry builder, and woe betide the unfortunate being who, struck with the pretentious appearance and low rent of one of these eligible family residences, takes up his abode therein, for so surely will disease, and perhaps death, be his visitor. I will not here enter into the details, or describe the medical reasons why such sites are unhealthy for dwelling-houses, as the fact is almost self-evident, and the practise of using either house refuse or street sweepings for such a purpose has[37] been condemned by sanitary experts over and over again. But I will pass on to describe a method of disposal of town refuse which is now gaining some popularity in localities where difficulties are experienced in getting rid of the refuse by any of the means to which reference has been made, and which up to the present time seems to be the best solution of the difficulty. I allude to the process of the destruction of the refuse by fire. With this object in view a Mr. Fryer has invented an apparatus which he styles a "Patent Carboniser, for the conversion of garbage, street, and market sweepings, also other vegetable refuse into charcoal." This apparatus consists of a structure somewhat resembling, externally, a brick kiln. It is divided into hopper-shaped compartments, which at the bottom are furnished with a furnace, fitted with a reverbatory arch. A fire is lighted in this furnace, the necessary combustion being obtained, and the heat maintained, by burning the cinders, which are sifted out of the house refuse for this purpose.
+
+All the street sweepings, refuse, garbage, &c., is then thrown in at the top of the kiln, and it is there and then completely destroyed by the action of the fire, and converted into charcoal, which is withdrawn through a sliding door fixed at the bottom of the[38] kiln. The inventor further contends that his Carboniser not only burns everything within it so thoroughly and completely as to produce effectual deodorisation, but also that in the process all noxious gases which may be driven off the burning organic matters contained in the refuse are themselves burnt and destroyed.
+
+Mr. Fryer has also patented another apparatus which he calls a "Destructor for reducing the bulk for purifying and fusing mineral refuse of towns, the residue to be converted into concrete or mortar." This apparatus is somewhat similar in construction and mode of action to the "Carboniser," except that it has no tall kiln containing the hopper-shaped compartments. Great heat is, however, necessary in order to fuse the mass of heterogeneous articles that are thrown into it, and its success is greatly dependant upon such heat being constantly and efficiently maintained. It is said that the cost of an establishment to dispose of the refuse by this means, consisting of one six celled Destructor and an eight-celled Carboniser, boiler, steam engine, mortar pans, cooler, chimney, shaft, and buildings, is about ￡4,500.
+
+Each cell is stated to deal with about 50 cwt. of refuse in every twenty-four hours, and that no nuisance is experienced in the vicinity of the dep?ts.[39] This apparatus has, I understand, been adopted in Kralingen, Leeds, Blackburn, Bradford, Warrington, and Derby, and is about to be adopted in other important places.
+
+It is not my intention here to describe or to discuss the question of the collection and disposal of night soil, which in many towns is intimately connected and amalgamated with the collection of house refuse and the cleansing of streets. It is a subject of sufficient importance to be dealt with separately. The following particulars, however, with reference to the collection of house refuse in connection with the pail system at Manchester will not be out of place, especially with regard to the reference which is made to Fryer's Carbonisers and Destructors, and it must be borne in mind that the refuse here spoken of is wet, which makes the difficulties connected with its destruction by fire greater than it would be if only dry, or comparatively dry, house refuse had to be destroyed. These particulars are gleaned from a report contained in a copy of the British Architect, of 1876, of a visit by the members of the Manchester Scientific and Mechanical Society to the works of the Manchester Corporation Health Committee, the figures being altered so as to conform more closely with the growth of the work since that year.
+
+[40]
+
+There are about 56,000 closets in Manchester, 44,000 of which have been constructed on the cinder sifter principle, and are emptied during the day, the remainder are emptied during the night.
+
+The contents of the new closets are brought away by vans specially constructed for the purpose, having five compartments, one of which is open and uncovered, and this receives the dry refuse; the other four compartments are covered and enclosed with tightly fitting doors. Each of these compartments holds six galvanised iron pails, which are also covered with closely fitting lids. The van bottoms are panelled, and the inside of each panel is filled with a layer of carbolic acid powder, one inch thick, and they are thoroughly cleansed after each journey.
+
+The Health Committee employ 100 of these vehicles, each one making four journeys per day. The contents of the closets which are emptied during the night are taken away in open carts, two-thirds to the tips and the remainder along with the refuse brought into the yard by the vans, is sent each night into the country.
+
+The amount of material dealt with each week by the Health Committee is about 3,000 tons, and may be described as follows:—Paper, 1 ton; rags, 3 tons; dead animals, dogs, cats, rats, mice, guinea pigs, &c.,[41] 2 tons; stable manure, 17 tons; meat tins, old tin and iron, 33 tons; refuse from slaughter-houses and fish shops, &c., 60 tons; broken pots, bottles, and glasses, 80 tons; vegetable refuse, door mats, table covers, floorcloths, old straw mattresses, 100 tons; fine ashes, 1,230 tons; cinders, 1,400 tons.
+
+The Committee employ in this department over 500 men, including clerks, inspectors, wheelwrights, smiths, saddlers, tinmen, engineers, mechanics, manure and mortar makers, stablemen, and labourers. They have 156 horses, and about the same number of vehicles of various descriptions.
+
+When the loaded vans reach the yard, they are first weighed, afterwards they are taken on to the first floor of a two-storey building, where the dry refuse from the open part of each van is unloaded and shovelled on to sieves worked by steam power. By this arrangement the fine dust widely diffusing itself in its descent, falls on to the floor below, covering the contents of the pails, which are, at the same time, being emptied on to grids fixed in the floor. At one end of these grids the bars are set much more closely together than at the other, and serve to convey the liquid portion of the contents of the pails by means of troughs to a tank where it is further dealt with. The solid portion of the excreta[42] falls through the wide-barred portion of the grid into suitable receptacles. The rough portion of the dry refuse, after being separated from the fine, is carried along a movable and endless table to the mortar mills, the boiler, or to one of the various furnaces, of which there are several in the yard. This dry refuse is of such a heterogeneous character as to require various modes of treatment. It is made up of paper, rats, meat tins, straw, cabbage leaves, onions, apples, turnips, fish bones, dead cats, rabbits, guinea pigs, fowls, brush heads, old boots, old books, knives, forks, spoons, children's toys, old hats, old bonnets, crinoline wires, umbrella frames, broken pots, broken bottles, preserve jars, medicine bottles, old mattresses, cinders, bits of coal, firewood, bass, broken bricks, and a host of other articles too numerous to mention. When this mass of rubbish is somewhat assorted, the cinders are separated and used for fuel for the boilers and furnaces (no coal whatever is allowed in the yard), the remaining portion of the rubbish along with some most vile and abominable matter which occasionally comes to the yard in the pails, is taken to the Carbonisers (of which there is a nest of eight in the yard), and the obnoxious material is therein carbonised and is resolved into a perfectly harmless material.
+
+[43]
+
+In another part of the yard is a second set of furnaces which are called destructors, and are used for the purpose of destroying rubbish, which before-time, for many years past, has been deposited in large heaps in every suburb of the city, to the great annoyance of the inhabitants whose fate it was to live in the vicinities of these deposits. These destructors not only consume this objectionable material, but they furnish heat to a concretor which is placed in close contiguity. The spent fuel is carted to the mills, and is there converted into mortar—a mortar, too, of the best description—as the samples of brickwork built with it and exhibited abundantly testify. This concretor, which is driven by steam power, is a large cylinder of a peculiar internal construction, which exposes an extensive evaporating surface to the heat from the destructor, which passes through the cylinder from end to end. The work of this concretor is to subject the urine or liquid portion of the contents of the pails fed by means of the troughs already spoken of in connection with the tank. The urine is pumped from this tank into the concretor at the rate of about 150 gallons per hour. The concentrated urine, which contains a large quantity of ammonia, is mixed with two-thirds its weight of charcoal, and the composition forms a most valuable manure.
+
+[44]
+
+The carboniser, the destructor, and the concretor have all been invented and patented by Mr. Alfred Fryer, of the firm of Manlove, Alliot & Co., engineers, Nottingham. The process of carbonising is patented by the Universal Charcoal Company, Limited, who are to receive a royalty, we understand, from the Health Committee for the use of their patent. There is a tall and noble-looking chimney in the centre of the yard surrounded by many new buildings and sheds, and this has been built with the concrete mortar manufactured by the Health Committee.
+
+Such is the gigantic scale upon which these matters are dealt with in the City of Manchester.
+
+The other methods, to which reference has been made, for the disposal of town refuse require no further comment, as it is evident that unless a ready sale for the refuse can be effected, by far the best method of disposing of it seems to be that by which it is completely annihilated by fire in the manner that has been described, or in some other similar manner.
+
+Having thus far followed the house refuse from its first appearance in its cradle, the dustbin, through its chequered career after collection down to its decease, either by burial, or by cremation, the question of the cost of the whole of this work must be deferred until the final chapter, after I have dealt[45] with the subject of street sweeping and cleansing, the removal of snow, and a short chapter upon street watering, which is somewhat analagous to scavenging, and is frequently included in the accounts of that work in the estimates which are prepared by a Local Authority.
+Chapter VII. "STREET CLEANSING."
+Clean well-swept streets not only add materially to the prosperous appearance of a town, but they also have a very marked influence upon its health and upon the morale of its inhabitants; wet, and muddy, badly formed, ill-drained streets, cause dampness in the subsoil of the dwelling-houses in the vicinity, and a humidity in the atmosphere, both of which tend to produce a low standard of health in their neighbourhood, irrespective of the wet surface through which pedestrians have to wade whenever they are obliged to cross such streets. Dusty streets, too, are very injurious from the fact of persons inhaling the gritty silicate loaded air arising from them; such an atmosphere is known to produce disease of the lungs, even when it is free from the dust arising from horse droppings or other organic impurities. Professor Tyndall, in his beautiful experiments, has proved that dusty air is alive with the germs of the bacteria of putrefaction, whilst the pure fresh air which he gathered on a mountain peak[47] in the Alps is innocent of such germs, and is absolutely powerless to produce any organisms. Persons living in streets that are improperly swept or watered are unable to open the doors or windows of their houses with impunity by reason of the dust.
+
+The definition of the word street, as given in the Public Health Act, 1875, is as follows:—"Street includes any highway (not being a turnpike road), and any public bridge (not being a county bridge), and any road, lane, footway, square, court, alley, or passage, whether a thoroughfare or not."
+
+With reference to turnpike roads the Act further states that any Urban Authority may by agreement with the Trustees of any turnpike road, or with the Surveyor of any county bridge, take on themselves the maintenance, repair, cleansing, or watering of such street or road.
+
+It is very questionable, however, whether the onus of cleansing private courts and alleys which are not repairable by the Urban Authority should be borne by them, although for the sake of the public health it is highly desirable that such work should be so undertaken.
+
+The great difficulty attached to this duty arises from the fact that as a rule these private courts and alleys are very badly paved, if paved at all, full of[48] pits, where pools of stagnant mud and water collect, and even in the best cases, the interstices between the pebbles, or other paving, are filled with filth arising in great measure from the dirty habits of the people, and this filth it is found exceedingly difficult to dislodge. The remedy for this is to compel the owners of the abutting properties to have the courts and alleys properly paved with asphalte, or other equally impervious material, after which it would be easy for the Urban Authority to cause them to be swept at least once a day, and flushed with water in the hot weather once a week, but in order to compel the owners to execute this very desirable work it would be necessary to put the complicated machinery of section 150 of the Public Health Act, 1875, in force, and the expense to the landlords would be in many cases very disproportionate to the value of their property.
+
+Out of the ninety towns to which reference has before been made, the authorities of only nineteen of them cleanse the private courts and alleys in their jurisdiction. The sweeping and cleansing of streets should be effected either at night or very early in the morning; if, however, the bad practice of bringing the house refuse out into the streets in inappropriate receptacles is in vogue, it becomes necessary to sweep[49] the street later in the day, after the contents of these receptacles has been removed. In most cases it is necessary to cleanse the principal streets of a town at least once a day, and this appears to be the practice of nearly all the ninety towns referred to, but only seven of them appear to have this operation repeated more frequently; in several cases, however, the horse droppings, &c., are removed at once, under what is called the "orderly" system, and this is especially necessary in streets that are paved with such materials as wood paving, asphalte, or granite setts. The suburban streets of a town need only be cleansed once or twice a week, except in special cases of extremes of mud or snow. It is important, however, that the gully pits in all parts of the town should be cleared out constantly, and men should be employed for this purpose, as well as to cleanse and disinfect all the cabstands and public urinals at least once every day.
+
+Street cleansing is effected either by hand-sweeping and hand-scraping, or by machinery. As to which is the most economical much depends upon the value of labour, and also upon the condition of the roads to be dealt with, but in point of time and as a general rule the value of a horse rotary brush-sweeping machine is undoubted, the only time at which such a[50] machine fails to do effective work is on the occasions when the mud to be removed (owing to a peculiar condition of the atmosphere), has attained a semi-solidity, and is of a stiff and sticky consistency, when it either adheres to and clogs the brushes of the machine, or is flattened by them on to the road instead of being removed.
+
+The simplest and best of these machines, in my opinion, is that manufactured by Messrs. Smith & Sons, of Barnard Castle. It sweeps a clear width of six feet, the rotary brush, which is divided into four or more parts, works diagonally, it is drawn easily by one horse, clearing itself of mud or dust in its progress, and the makers say that it can sweep 15,000 square yards of road surface in one hour, this being equivalent to the ordinary work of about 50 men in the same time!
+
+The price of this machine is ￡30, and being of very simple construction it costs little or nothing in repairs, except for the brushes, which last for about 180 hours when in constant work. These can, however, be replaced at a cost of ￡2 15s. per set, or the old stocks can be refilled with bass, at a more moderate figure. It is, of course, necessary to sweep the ridge of dust or mud which is left by the machine at the side of the street into heaps by hand labour,[51] and to remove it by carts; other machines have been invented for cleansing streets, which by means of elevators, or other gear, profess to raise the mud or dust direct into the carts, which are to be attached at the back of the machine, but hitherto these machines have been found to be too cumbersome, costly, and complicated for the purpose, and they have not consequently found much favour with Sanitary Authorities.
+
+Messrs. Smith & Sons also construct a patent road scraping machine, which is drawn by one horse, and which will, they say, scrape upwards of 10,000 square yards of road surface in an hour.
+
+The strength and durability of the hand brooms purchased by an Urban Authority for the work of sweeping the streets is of some importance, as affecting the ultimate cost of the work, and some care and skill is required in their selection.
+
+Bass brooms are better than birch brooms for this purpose, and the bass of which the brooms are made should be sufficiently stout and of regular thickness; it should be tough and elastic, not old, dry, and brittle, each knot should be of uniform size and be firmly set, and the number of knots in each broom head is also a matter of choice. A convenient and fair test of the soundness of a broom is to soak it for[52] a few days in water before issuing it to the sweeper, and then note the time it will last. The handles of the brooms should be made of alder wood.
+
+The mode of construction of streets, and the materials of which they are formed, makes a considerable difference in the amount of cleansing necessary, and upon the quantity of mud or dust that has to be removed from their surface. In making any investigations for the purpose of deciding what difference exists in the question of cleansing various forms and descriptions of pavements, climatic influence introduces a rather disturbing element, which may seriously affect any conclusions that may be drawn; it may, however, be taken for granted that a street, the surface of which is metalled on the macadam principle with stones of a soft or gritty character, will require more cleansing and be more costly to scavenge (under the same conditions of climate and traffic), than a street paved with the hardest granite setts or with blocks of wood, or with asphalte, and at the same time much care will have to be taken not to over sweep or over scrape a road with a macadamised surface, or much injury will be done to it.
+
+Amongst the influences that disturb the results of any investigations made with respect to street[53] cleansing, that of the amount and character of the traffic over it must not be lost sight of, and the state of repair and gradient of the street are both of considerable importance in affecting the results, the practice too, of bringing out the house refuse into the streets in improper receptacles pending the arrival of the scavengers' cart, must also cause a varying amount of refuse to be swept from its surface, depending upon the habits of the persons living in the street.
+
+The Superintendent of the Scavenging Department at Liverpool has made some observations and obtained some valuable information on these points, which he has detailed in a report he presented to the Health Committee of that borough in the year 1877, an abstract of which is as follows:—
+
+[54]
+
+GROSS COST FOR EACH TIME OF CLEANSING 10,000 YARDS SUPERFICIAL OF DIFFERENT DESCRIPTIONS OF ROADWAY IN THE BOROUGH OF LIVERPOOL.
+
+                                            
+Street.    Description of pavement.    When paved.    Condition of repair of roadway.     Area of carriage-
+way.    Loads removed in one month.    Times swept in one month.    Gross cost per 10,000 yards superficial for each cleansing.
+                                            
+                        Yds. supr.            ￡    s.    d.
+Lord St.    {    Granite setts,
+asphalte joints    }    1877    Very good    4,503    15    26    0    6    5?
+North John St.        Ditto        1872    Good    3,287    17?    26    0    8    10?
+Tithebarn St.    {    Granite setts,
+ordinary joints    }    1872 and 1874    Bad    5,150    38    26    0    11    2
+West Derby Rd.    {    Ditto,
+asphalte joints    }    1876    Very good    11,980    35    13    0    9    4?
+Great Howard St.        Ditto        1877    Good    16,860    85    13    0    14    4?
+Great Homer St.    {    Ditto,
+ordinary joints    }    Not ascert-ainable    Moderate    15,900    85    13    0    14    1
+Kensington St.    {    Macadam breasted
+with setts    }    Ditto    Good    14,540    76    13    0    14    3?
+Stanley Rd.        Ditto        Ditto    Bad    16,534    186    13    1    8    9?
+                                            
+
+[55]
+
+He adds that the full benefit of the impervious pavements as regards the cost of scavenging has not yet been felt, for almost all the lines of streets so paved are intersected at short distances by streets of ordinary jointed granite setts or macadam, whence a quantity of mud and refuse is dragged by the traffic on to the asphalted jointed roadways, which are consequently debited with the cost of removal of some effete material not intrinsically belonging to them. He further adds that the credit reductions to be made in respect of the value of manure obtained from each description of carriageway is not readily ascertainable. In dry weather the value of manure collected from granite setts, with or without impervious joints, is about equal, but when the sweepings are wet, and consequently of little value for sale, the quantity yielded by the ordinary pervious jointed pavement is greater than from the impervious, and therefore the total value is relatively favourable to the latter class, whilst to get rid of the sweepings from macadamised streets is a source of additional expense. He concludes this portion of his valuable report by observing that the advantages of the new impervious pavements over the old kinds are especially shown after frost and snowfall, the results of which cause the setts of ordinarily jointed roadways to become loose, and[56] allow a vast amount of mud to ooze up between the softened joints. The comparison is still more apparent in regard to macadam, which, unless a heavy rainfall succeeds the thaw, cannot be swept for some days without great destruction being caused to the metalling of the roadway.
+
+The ultimate disposal of the material removed from the surface of a macadamised roadway, being principally composed of silicate, and consequently valueless as a manure, is a difficult matter.
+
+In small towns, except during abnormally muddy weather, it may be mixed with the house refuse and sold to farmers, or the road scrapings themselves may be used as an excellent sand, if thoroughly washed, to mix with lime or cement to form mortar for public works; excessive accumulations of mud, however, must be got rid of in the most economical and speedy manner, and this is effected either by filling up old disused quarries with it, or depositing it upon waste lands, or forming embankments for new roads, but in no case should it be used, as I have before stated, upon building sites; it is difficult and expensive to destroy it or partially convert it into other matters by fire, so that if these methods which I have enumerated are impracticable, the only other method left for the disposal of the sweepings or[57] scrapings from the streets is to take them out to sea in hopper barges and sink them in deep water.
+
+In the City of Paris an area of about 13,000,000 square yards of streets are cleansed between three and six a.m. in the summer months and four and seven in the winter. This work in connection with the collection of the house refuse employs 2,200 men, 950 women, and 30 boys, besides 190 mechanical sweepers.
+
+The Paris mud is said to no longer possess the manurial strength of former times, and in consequence the receipts derived by the municipality from this source have greatly diminished. At the present time it is disposed of by public tender to responsible contractors, who manage to take between them some 2,500 cubic yards daily.
+
+The following additional particulars of the manner in which this work is carried out in Paris will, I think, prove of interest, especially with regard to the use of disinfectants, which are largely used in that city in connection with the cleansing of the streets, a practice which might be followed with advantage by the Sanitary Authorities of this country.
+
+The cleansing of the public thoroughfares in Paris, which was formerly undertaken by the Prefect of Police, is now a function of the Prefect of the Seine.[58] The staff consists of two chief engineers, one for each group of arrondissements, one group being sub-divided into three sections, each under the charge of an executive engineer, and the other into five sections similarly supervised. These sectional engineers have under them 51 superintendents and 61 overseers, whose employment costs annually ￡10,400. The scavenging plant is kept in a central dep?t, where materials of every description are stored and classified for ordinary and extraordinary service, when snow and ice render additional assistants necessary.
+
+The dep?ts contain supplies of chloride of lime, sulphate of zinc, sulphate of iron, and carbolic acid, as disinfectants; and hydrochloric acid and nitrobenzide, as cleansing agents. The chloride of lime, of a strength of 100&deg; to 105&deg;, is successfully employed for the disinfecting of places tainted with urine or faecal matter, also for cleansing gutters carrying any sewage water. Sulphate of iron and sulphate of zinc are both used under the same conditions. Sulphate of iron has the disadvantage of rusting objects to which it is applied, sulphate of zinc is stronger in its action, but it costs a little more; it produces no smell, nor does it leave any stain; it is much employed in summer for washing and watering the basements of the "Halles Centrales," which are[59] used for fish, poultry, and offal. At a strength of one-eighth, and mixed with three per cent. of sulphate of copper, sulphate of zinc makes a good disinfecting liquor, which preserves its qualities a long time, and is of great use in private houses. Carbolic acid is not, strictly speaking, a disinfectant; it does not act like chloride on putrid matter, but it arrests and prevents fermentation, doubtless by destroying the spores, it is, therefore, always employed when it is desired to destroy the germs of putrid fermentation. It is used at a strength of about one-fortieth, say a gallon of acid to 40 gallons of water. At strengths of one-one hundredth and one-two hundredth it gives good results for watering once or twice a week in summer those parts of the "Halles Centrales" liable to infection; it is even used as low as one-one thousandth for watering streets and gutters. Hydrochloric acid is applied to urinals and slaughter-houses, in places much encrusted with tartar; it is used at a strength of one-sixth, lowered to one-tenth, it cleans smooth walls and flags efficiently, in ordinary rinsings a strength of one-fifteenth suffices; it leaves a disagreeable odour behind, which is, however, quickly dissipated. Nitrobenzide is more energetic than the foregoing, but it produces a disagreeable smell of bitter almonds and leaves a white film, which has to be washed off; it is[60] used at the same strengths as hydrochloric acid. The annual cost for plant and disinfecting materials of all descriptions is ￡8,800.
+Chapter VIII. "SNOW."
+The unthinking ratepayer frequently exclaims, "Why cannot the authorities order this abominable snow to be immediately carted away?" when the footpath and roadway in front of his domicile lie hidden under a thick coating of snow crystals.
+
+Signor E. Bignami Sormani, assisted by Professor Clericetti, have made several most interesting investigations and observations upon the density of fresh fallen snow in Milan by means of a simple balance and compressing box. The range of weight of the snow was found to vary as much as eleven times the minimum. A cubic yard from one snowstorm, weighing as much as 814 pounds, while an equal bulk from another fall only weighed 71 pounds. The weight consequently of a cubic foot of the densest snow is 30.14 pounds, whilst a cubic foot of water weighs 62.5 pounds, or only about double the weight of this dense snow, but which was in all probability little different from ice.
+
+For my purposes, however, I will take a mean[62] between these extreme weights, and assume that the weight of a cubic foot of snow is 16.38 pounds, and that a fall of three inches of snow during the night has caused the ejaculation with which I commenced this chapter to proceed from the aforesaid ratepayer.
+
+The ordinary width of an English street may be taken at thirty-six feet, including the footpaths, so that on every one hundred yards in length of every street of that width 2,700 cubic feet of snow have fallen, the total weight of which amounts to 44,226 pounds, or very nearly 20 tons, which in actual bulk would represent 100 cubic yards. But as the snow would soon become compressed after falling, I assume that this bulk would be diminished by one-half, and that consequently (without reckoning the snow which has fallen upon roofs and into courts, passages, and alleys, and which has been quickly shovelled therefrom to the street by the occupiers) about 40 ordinary cartloads, weighing half a ton each, would have to be removed from this length of street. Assuming that there are 30 miles of street in a town from which the snow must be immediately removed, 21,144 loads must be carted somewhere, at a cost of at least ￡1,500, assuming that each cart could make ten trips a day, and even then it would take 352 carts a whole week to effect it.
+
+[63]
+
+It may be contended that I have taken an extreme case, and that, of course, the snow does not lie for very long upon the ground in the condition in which it fell, and that hourly it is reducing in bulk and weight by being ground up by the traffic, and finding its way in the form of water into the sewers, but I have simply advanced the few facts which I have stated in order to give some idea of the labour and cost of snow clearing in a city or town, and I think I cannot do better than at once describe how this important work is carried out in the city of Milan, where the organization and arrangements by which it is accomplished with marvellous despatch, and efficiency, could with advantage be copied by the authorities of any of our towns which are occasionally visited by excessive falls of snow.
+
+In Milan the snow carts are emptied into the navigable canals and numerous watercourses by which the city is intersected; and latterly also into the new sewers in the central portion of the city, which are promptly flushed whenever it snows. During the winter of 1879-80 the cost of clearing the 1,656,200 square yards total area of squares, streets, and lanes within the city walls, averaged ￡200 per inch depth of snow fallen, and for the 502,800 square yards outside the walls the average cost was ￡62[64] per inch depth, equivalent in each case to about 1.05d. per cubic yard. Ordinarily the clearing of the more frequented streets is completed within eight or ten hours after it has stopped snowing; and of the rest within 24 hours, not reckoning night. The city is parcelled out into small districts, numbering 112 for last winter, of varying extent according to the importance of the work in each. An average rate of pay per inch depth of snow fallen is settled for the whole area of each separate district, according to its extent and the particular conditions affecting the several streets and squares comprised within it. Each district is allotted to a contractor, who usually associates with himself six to ten partners, besides the labourers whom he employs. He has to find carts, horses, and carters; the necessary implements—spades, shovels, brooms, scrapers, mattocks, barrows, &c.—are furnished by the city, under suitable stipulations for ensuring proper care in their use. The contracts are made annually, and the same persons almost always apply for them again year after year. The contractors come principally from the trades that are interrupted by winter, viz.:—Paviors, bricklayers and masons, and gravel quarrymen. For the direction and supervision of the work the whole city is divided into four sections, over each[65] of which is appointed an engineer, with an assistant, who are aided in the general arrangements by the police surveillance. Payment is made only for work effectually done. In each snowstorm the depth of snow falling, which is the basis of pay, is ascertained by means of a number of stone posts, fixed in suitable open spaces, clear of shelter from buildings, and each capped with a flat horizontal slab of stone. As soon as it stops snowing, or two or three times during a storm of several hours, the depth of snow caught on the slabs is measured by the engineer in the presence of two of the contractors in his section. The number of men ordinarily engaged in snow clearing on a winter's day is not less than two thousand, and has sometimes risen to three thousand. The stock of implements found by the city, representing a capital of about ￡1,600, is housed in two stores in opposite quarters of the city. In the winter of 1874-75 the total fall of snow amounted to 40? inches, and the whole expenditure for clearing it within the city walls exceeded ￡8,400; while in 1877-78 the fall was only 5? inches, involving an expenditure of less than ￡1,040 for a slightly larger area.
+
+The small cost at which this work is carried out in Milan is accounted for by the low rate of wages and cart hire, and the perfect organization of the system.
+
+[66]
+
+When a fall of snow occurs in Paris, attention is first directed to clearing the footpaths and crossings, so as to ensure uninterrupted foot passenger traffic. The town scavengers sand the roads whenever it is necessary for the carriage traffic, at the same time numerous auxiliaries are organised to remove the snow from the principal thoroughfares in the order of their relative importance. To assist in removing the snow the General Omnibus Company are bound by their concession to furnish 50 waggons, and carts are specially arranged for with the providers of sand and gravel at the beginning of winter, the contractors for maintaining the public roads being also bound to hold their carts at the disposition of the sectional engineers. In certain cases the half-melted snow is swept into the sewers, especially into those carrying warm water. Melting by steam has been tried, when a continuous jet was turned on to a mass of banked snow, but it melted very slowly at first, and the melting ceased after the cavity had increased to a certain size. Two descriptions of snow ploughs are kept in store, one for manual, the other for horse power, but they have never been used, as the coating of snow seldom attains sufficient thickness, and it is too quickly compressed and hardened by the traffic. As a rule, the sum allowed in the budget, about[67] ￡7,000, suffices for the extra labour incurred, but occasionally severe winters cause this to be greatly exceeded, as in 1875-76, when the increase amounted to ￡8,000, and no doubt in the winter that has just passed, 1880-81, the estimate must also have been largely exceeded.
+
+In England one of the greatest difficulties we have to contend against is the disposal of the snow after it has been placed in the cart.
+
+If there is a river close by, it can be taken there and tipped, but this is objectionable if it is a navigable river where dredging has to be done, as it is surprising what a quantity of road scrapings and other matters are always removed with the snow, and these materials naturally sink to the bottom, and add considerably to the cost of dredging.
+
+If there are public parks the snow may be heaped in them, provided no damage is done to the grass or paths, as the snow thus heaped takes a considerable time to melt, the first effect of a thaw being to consolidate it, but a better plan is to deposit it upon any waste spots, if these are not too far from the streets which have to be cleared.
+
+Tipping the snow down the manholes into the sewers has been tried in London and other cities, but has failed through the snow consolidating, and[68] although lighted gas jets have been turned on to the snow, it has still melted too slowly to be of any practical utility.
+
+It has been suggested that a steam jet should be turned on the snow as it lies in the streets, or after it has been heaped, but I very much doubt the efficacy of this plan, although Messrs. Merryweather & Co., of London, have, I understand, melted a cartload of snow in seven minutes. It might, however, be possible to melt the snow by the heat generated in the furnaces that are destroying the house refuse by fire, and this could be effected without any large expense beyond the cost of cartage of the snow to the dep?ts, which would, of course, be necessary.
+
+Failing an organization such as that of Milan, the following suggestions may be of use to those who have sometimes to grapple with this unproductive work:—
+
+Do not attempt to cart away the snow while it is yet falling, but try to make clear crossings for the foot passengers and to keep the traffic open. If there should be a high wind at the time, and the snow drifts in consequence, cut through the drifts so as to allow the vehicular traffic to continue.
+
+Directly the snow ceases to fall put on all available hands to clear the channel gutters and street gratings,[69] in preparation for a sudden thaw, when, if these precautions were not taken, serious flooding and great damage to property might ensue; for the same reason cart away all the snow you can at the bottom of gradients and in the valleys, and also from very narrow streets and passages, &c.
+
+In the wider streets use the snow plough, or with gangs of men (in the snow season there is generally plenty of labour obtainable), shovel the snow into a long narrow heap on each side of the street, taking care to leave the channel gutters and gratings quite clear, and a sufficient space between the heaps for at least two lines of traffic. Passages must also be cut at frequent intervals through the heaps, in order to allow foot passengers to cross the street, and also to let the water reach the channel gutters as soon as the snow begins to melt.
+
+With regard to the question of clearing the snow from the footpaths irrespective of the larger duty of clearing it from the streets, it is often a disputed point in a town as to whether this should be done by the Urban Authority at the expense of the rates, or by the householders themselves, and this can only be settled where the town has a private improvement act, in which a clause or clauses may be inserted throwing the onus of such cleansing and sweeping of[70] the footpaths upon the several and respective occupiers of houses and buildings. But on whoever the duty rests there is no doubt that the easiest and quickest method of effecting a thorough cleansing of a footpath from snow is by an application of salt, and then to sweep off the slush that is engendered with a broom. Medical men and others, however, assert that the practice of putting salt with the snow is to make a freezing mixture, which is detrimental to the health of persons walking on such a mixture, and there can be no doubt that excessive cold is caused by this practice, often sufficiently severe to crack the flagstones of the foot pavement.
+
+In the City of London the footways are swept once daily by men in the employment of the Commissioners of Sewers, and in wet weather those in the main streets are cleansed repeatedly during the day, and this has been done, I believe, since the year 1872, although the occupiers are legally liable for the execution of this work.
+
+In Liverpool, also, this is done after a fall of snow, as will appear from the following interesting remarks on the subject, contained in a report by the Superintendent of the Scavenging Department in that borough:—
+
+"The only way to compass the removal of snow[71] from the footwalks of the principal thoroughfares within a comparatively short time is by sprinkling them with salt such as is commonly used for agricultural purposes. It is certain that, unaided by the salt, a sufficient number of men cannot be procured for the emergency of clearing snow from the footways of the most important thoroughfares. It has been stated by medical authorities that the application of salt to snow is detrimental to the health of people who have to walk through the 'slush' produced by the mixture, and that the excessive cooling of the air surrounding the places where the application has been made is injurious to delicate persons. It, therefore, seems that the application of salt to snow should not be undertaken during the day time, but should be commenced not before 11 p.m., nor continued after 6 a.m., and that only such an area of footwalks should be so treated on any one night as the available staff of men can clear by an early hour the following morning.
+
+"To sweep snow from the footwalks whilst the fall of snow continues, and especially during business hours, appears to be wasteful and futile, and to apply salt during the same periods may be held to be injurious to health.
+
+[72]
+
+"That the snow of an ordinary fall can be removed from the footwalks by an application of salt an hour or so before they are scraped is an ascertained fact, except at least when a moderately severe frost has preceded, accompanied, or followed the snow fall, or when the snow has drifted into extensive accumulations. Were it not for the danger to health by excessive cooling of the air, and for the expense attending the operation, all the impervious pavements could be cleared of snow (unless the fall was a heavy one) in a comparatively short time by a liberal application of salt and the employment of the horse sweeping machines as soon as the snow had become sufficiently softened to admit of their use."
+
+To these remarks I have nothing to add, except to suggest that in addition to clearing the snow from the footpaths care should also be taken to scrape out and thoroughly clear the roof water trunks, which are frequently found crossing the footpavements; if these remain choked damage may ensue to the adjoining property when a thaw commences.
+Chapter IX. "STREET WATERING."
+The effective watering of streets and roads in any town during the summer months is an important matter, not only on sanitary grounds, but also from the fact that considerable damage may be caused in the neighbouring shops, warehouses, and dwellings, if something is not done to prevent the clouds of detritus and decaying refuse, of which the dust is composed, from being blown about. In the metropolis of London alone, the watering of the streets and roads employs, in addition to a staff of surveyors, inspectors, and foremen, about 1,500 men, and an equal number of horses and carts; and in order to lay the dust effectually, about 30,000 tons of water must be spread upon the streets every dry day, the cost of this gigantic work being nearly ￡200,000 per annum upon an average of 120 days, when watering becomes necessary.
+
+The most commonly known method in this country for watering the streets and roads of our towns is that of carrying the water in wheeled barrels, carts,[74] or vans, and distributing it therefrom through a perforated pipe upon the surface of the road as the vehicle is drawn along by a horse attached to the shafts.
+
+The points of importance to be considered under this system are as follows:—
+
+(1.) The number and position of the stand posts or hydrants, from which the water carts are to be filled, and whether they shall be "swan neck" stand posts or "valve" hydrants.
+
+(2.) The size and form of the body of the water carts, as regards its cubical capacity, its weight, strength, lightness of draught, durability, width of spread, and shape of jet, so as to ensure evenness of supply without leaving pools of water or dry patches after it has passed, or causing that unpleasant cloud of dust which so often follows the cart.
+
+A wonderful improvement in all these respects has been lately effected by the introduction of Mr. E. H. Bayley's Patent Hydrostatic Van, of which I shall speak more in detail hereafter.
+
+(3.) Another point of some importance is the material of which the hose shall be constructed, if valve hydrants and not swan necks are existing. My opinion is that it should be of leather, as being roughly handled and little cared for; canvass hose, although[75] the cheapest, is not sufficiently durable, and is consequently the dearest in the end; and (4), lastly, the driver and horse should both be of some intelligence. A check should also, if possible, be kept upon the former to see that he performs his allotted task, and does his proper number of rounds. Mr. Bayley has also introduced for this purpose a "Tell Tale Indicator," which records automatically the quantity of water used; it cannot be tampered with, and registers on a dial outside the van each load of water delivered, so that the surveyor or other officer can see at a glance whether the driver is attending to his work, or whether the hot weather has made him find his throat drier than the roads, and he has been spending some of his time in moistening it. In the year 1856, Mr. Scott, C.E., the chief surveyor of the parish of St. Pancras, kept an account of the daily round of an ordinary water cart, when he found that through an average working day of 10? hours, exclusive of the breakfast and dinner hours, the cart took one hour and twenty minutes filling, fifty minutes only in distributing the water on the roads, and eight hours and seven minutes in travelling to spread the water and back to the stand posts. It was obvious that these were placed too far apart, and by the subsequent introduction of additional standposts Mr.[76] Scott found, in the year 1867, that the filling occupied two hours, the distribution one hour and thirty minutes, and the travelling to and fro six hours and thirty minutes, so that it may be assumed, with an ordinary two-wheeled water cart, that two-thirds of the day is spent in travelling, one-fifth in filling, and about one-seventh in the actual spreading.
+
+To many of my readers Bayley's Van is probably as familiar as it is to me, but it may notwithstanding be well to describe it. It is a handsome vehicle in appearance, the body being made of wrought iron plates, and measures 8 ft. in length by 4 ft. 8 in. in breadth, and 2 ft. in depth, holding 450 gallons. It is mounted on springs upon four wheels hung upon Bayley's patent axles, and has a pair of light shafts; it can easily be fitted with a break for hilly roads, and there being no weight at any time upon the horse's back, he is relieved from any severe strains.
+
+By means of an adjustable valve the flow of water can be regulated according to the state of the roads, and, if necessary, a double valve can be inserted, so that either side of the distributor can be at work when only half the width is required, or when passing a carriage or narrow spaces.
+
+The branch pipe is of uniform size, except close to the spreader, where it enlarges in order to avoid[77] friction, and this is assisted by the branch pipe being shaped into a cycloidal curve on each side.
+
+In order to obtain as great a pressure as possible upon the jets of the distributing pipe, and thus to give the side jets a greater trajectory than they otherwise would have, the tank is elevated as high as is consistent with the conditions of draught. At the same time, the distributing pipes are placed as near to the ground as convenient, so that the maximum extent of distribution is obtained, and that with less dust and splashing than in the ordinary system. The holes in the distributing pipe instead of being drilled in straight lines, are on a curved line, which rises along the length of the pipe from the centre towards the ends. This has been found necessary, in order that the distributing pipe may be placed low, and at the same time advantage be taken of the width of the trajectory of the jets.
+
+Comparing the work of one of these vans with that reported upon by Mr. Scott, it is found that the van occupies nine minutes in filling, six minutes in spreading the water, and only three hours and fifteen minutes in travelling to and fro, so that in seven hours it accomplishes as much work as the ordinary water cart effects in ten hours.
+
+In Edinburgh, where a trial of one of these vans[78] took place against one of the old carts, it was found that the van spread the water a width of 20 feet, while the old cart only covered 14 feet; the van conveyed the water 1,731 feet, and the cart only 951 feet. The superficial area watered by one load of the van was 34,620 feet, and by the old system only 13,314 feet. When we consider the time that is lost in travelling to and from the stand pipe, what a large saving this represents in the cost of this work.
+
+Mr. Tomkins, C.E., the surveyor of the important Metropolitan parish of St. George, Hanover Square, has made the following comparative experiments with one of Bayley's vans as against an ordinary cart:—
+
+                                
+    Contents in Gallons.    No. of Loads to cover beat.    Total quantity of Water.     Time.    Difference.    Gain per Cent.
+                                
+                Hrs.    Mnts.    Hrs.    Mnts.    
+Van    450    5?    2475    1    23    —    —
+No. 4 Cart    225    11    2475    1    50    0    27    24?
+                                
+Van    450    5?    2475    1    38    —    —
+No. 9 Cart    237    11    2607    2    10    0    32    25
+                                
+Van    450    6    2700    1    45    —    —
+No. 15 Cart    290    11    3190    2    10    0    25    19?
+                                
+Van    450    8    3600    2    15    —    —
+No. 19 Cart    260    17    4420    3    30    1    15    36
+                                
+
+This shows a mean gain of 26 per cent. in favour of the van, and the following tables made by an[79] inspector in 1873, showing the actual occupation of the ordinary carts and Bayley's vans during a day's work, are extremely interesting, as showing that while the van is engaged in spreading the water the time of the cart is wasted in travelling to and from the stand posts, and when it is borne in mind also that the van spreads water more widely than the cart, there can be no doubt that a saving of at least 30 per cent. can be effected by the substitution of these vans for the old-fashioned cart.
+
+CARTS.
+                                        
+      Filling.      Travelling
+Full.    Travelling
+Empty.    Waiting, &c.    Spreading.
+                                        
+    H.    M.    H.    M.    H.    M.    H.    M.    H.    M.
+Paddington    1    45    2    9    1    58    0    20    1    30
+St. Saviour's    1    29    2    16    2    4    0    26    1    29
+Strand    1    11    2    30    2    18    0    17    1    3
+Kensington    4    40    2    2    1    57    0    0    1    54
+Chelsea    2    44    1    15    2    14    0    35    1    6
+                                        
+ 
+VANS.
+                                        
+Paddington    3    33    1    9    1    3    0    0    3    0
+St. Saviour's    2    20    1    4    1    21    0    23    2    58
+Strand    2    30    1    25    1    14    0    20    2    23
+                                        
+
+One of the earliest methods for watering streets, but one which has, I think, almost entirely died out on account principally of the large quantity of water used in the process, was that of allowing the water to run down the channel gutters, ponding it back by[80] means of canvass or leather aprons placed across the gutter, and then spreading the water on to the surface of the street by throwing it with wooden shovels.
+
+This method, although at first sight may appear clumsy, is an exceedingly good one upon sanitary grounds. It not only lays the dust, but it washes the surface of the streets, and it most effectually scours out the gutters and at the same time flushes the sewers, which at the season that watering is necessary is also of great importance to any town. By this process a delightful freshness is given to the air, and the appearance of the cool and limpid water rushing along on each side of the street acts favorably upon the inhabitants. The great objections to this system are the enormous quantity of water that is used in the process, and the difficulty of doing the work after the traffic of the day has commenced. Somewhat of a modification of this process is what is known as "Brown's System of Street Watering," which may be described as follows:—A lead pipe is laid in the footpath at the back of the kerb on each side of the street to be watered, small gratings or shields being fixed in the pipe at intervals of twelve inches, and the remaining space filled with asphalte; small holes are then bored in the pipe through the openings in the shields. The pipe is connected with[81] the water main in the street, and is provided with the necessary stopcocks, &c.
+
+On the water being turned on, fine jets are thrown in different directions upon the surface of the street.
+
+The width of roadway that can be watered by this process depends upon the pressure of the water, but it may be fairly assumed that in most towns streets of fifty feet width could be effectually watered in a few minutes by a pipe on each side of the street.
+
+This process has not gained much favour hitherto, principally on account of the large first cost involved, which would amount to upwards of ￡800 per mile of street, but the expense afterwards should not much exceed the wages of one man at about 3s. 6d. per day to manipulate the necessary work, and the interest on the outlay and depreciation of the pipes, &c.
+
+The other objections to this system are:—
+
+(1.) The liability of the pipes and perforations to get out of order, especially when allowed to lie idle for so many months in each year.
+
+(2.) The unpleasantness to pedestrians which must be caused whilst the watering is proceeding.
+
+(3.) The inconvenience to the traffic during the process.
+
+(4.) The effect upon the water by high winds, when in all probability it would be blown back across the foot pavements.
+
+[82]
+
+(5.) In very broad streets it would be inoperative.
+
+In Paris and other continental cities, and also in several towns in this country, the watering is effected by hose and reels, or by portable iron tubes.
+
+Mr. Parry, C.E., the borough surveyor of Reading, has given the following particulars of the system of hand watering adopted in that borough, in which he gives the cost, and describes the utility of that method as compared with the use of water carts:—
+
+A water cart (he states) will water twice a day a superficial area of 23,849 yards, and for a length watered one width that means 5,962 lineal yards, or for a double width 2,981 yards, the cost per day of laying on being as follows:—Horse, cart, and man, 8s.; cost of maintenance of cart, harness, shoeing, &c., 1s. 5d., making 9s. 5d. per day.
+
+With respect to the hand machines he states that he has one of Headley's drum machines, and three of special make, somewhat similar to those used in Paris. They are equal in point of work; and one machine will water 23,740 square yards twice a day, which, it will be observed, is very close to the amount of work performed by a cart.
+
+"Headley's machine cost us (he continues), five years ago when new, ￡31 7s. 3d., and the repairs and maintenance since that date have been ￡22, or an[83] average of ￡4 8s. per annum, and is just now almost past repair. The other description of hand machine cost each when new ￡20, and the repairs and maintenance have amounted to an average of ￡3 18s. each year. They were in use sometime before Headley's was obtained, and they will be of use for a long time yet. The cost of labour per day by the hand machines is for two men at 2s. 10d. each—5s. 8d.—as it requires two men to work the machine properly, one to distribute the water, and the other to move the machine and to attach and detach the apparatus to and from the hydrants; add to this 7d. per day for maintenance and repairs, will make 6s. 3d. per day. The quantity of water delivered by the water carts is 0.51 gallon per square yard, and by the hand machine 1.30 gallons."
+
+It will thus be seen that in the case of the cart 24,324 gallons of water are used per diem, and 61,724 gallons by the hand machines, the surface watered being very nearly the same in both cases. Assuming that the water has a commercial value of 6d. per 1,000 gallons, and adding this to the cost per diem in each case, the total cost stands thus:—
+Hand machines    ￡1    10s.    10d.
+Carts    ￡1    1s.    7d.
+
+[84]
+
+the advantage in point of cost being in favour of the carts, but the hand machine may water better, especially in broad streets, although in narrow streets or where there is much traffic, this method would be impracticable.
+
+In Paris both hose and carts are used for watering the thoroughfares, the former for the boulevards, the avenues, and a certain number of first-class streets. The watering plant belongs to the municipality, and they have various forms of carts, containing 220, 242 and 286 gallons respectively, and will water from 2,400 to 3,350 square yards. The watering by hose is attended to by the ordinary street cleaners, who can easily water 24,000 square yards in about thirty-five minutes, deducting the time necessary to connect the apparatus with the mains, but this requires a gymnastic performance, which, if once seen, is not easily forgotten.
+
+Watering the streets with sea water should be adopted whenever it is feasible, as it not only gives a delightful freshness to the air and dispels iodine, but it also causes the surface of the street to maintain its humidity for a longer period than when fresh water is used, as it impregnates the soil with hygrometric matter.
+
+This has been often attempted artificially, not only[85] by adding common salt to the water used for watering, but also by adding chloride of calcium, notably in Rouen, where this material is obtained from the manufactories of pyroligenous acid in the neighbourhood. It is stated that on a mile of road, 16 feet in width, 5,630 gallons of water were necessary daily, but that the same result was attained with 1,480 gallons of chloride solution, marking 30&deg; Beaumé, and costing about ?d. per gallon, the humectation remaining good for five or six days with the solution of chloride. With water only in 1,093 yards, in four rounds daily, 3,520 gallons were used, the cost being 48s.; with chloride of calcium the cost was 32s. per day.
+
+Watering the roads with a largely diluted disinfectant, such as "Sanitas" in the liquid form, is frequently of great benefit, and where it can be afforded, it should be occasionally done, especially in the narrower streets and more crowded districts of a city or town.
+Chapter X. CONTRACTS V. ADMINISTRATION BY LOCAL AUTHORITY.
+Amongst the questions which I addressed to the surveyors of the principal towns of England was the following:—"Is the house refuse collected by the Sanitary Authority or by a Contractor?" and out of the ninety towns from which I received replies, only thirty were found to employ contractors for this purpose, and of these the authorities of two of them proposed to dispense with the services of the contractor, and to administrate the work with their own staff, as they found the existing state of things was thoroughly unsatisfactory.
+
+This is hardly to be wondered at when the nature of such contracts comes to be considered. The "dust" or "slopping" contractor, or whatever he may be designated, can hardly be expected to be a philanthropist, whose principal object in carrying out his contract is that of benefiting his fellow creatures and not himself; on the contrary, it may fairly be assumed that the contractor's object is to[87] serve his own interests, and to make his contract pay. It is but natural, although the result may not be eminently satisfactory either to the ratepayers, who require a careful and systematic cleansing of their dustbins and streets, or to the Sanitary Authority and their officers who have to look after him. The officers, if they do their strict duty, will probably be engaged in constant disputes and litigation with the contractor as to the due and proper observance of the terms of his contract, and the consequence of their time being thus occupied instead of in other more important matters, is naturally detrimental to the interests of the ratepayers.
+
+If we turn to the articles of agreement or contract usually drawn up between a Sanitary Authority and a contractor for scavenging, we find that they are generally very binding in their phraseology, and enter fully into the details of the work; they should state very clearly the number of times in every week that the contractor shall cause all the ashpits in the districts enumerated to be emptied and cleansed, the manner in which this work shall be performed, and how the materials thus removed shall be disposed of and the place of their ultimate destination. The conditions should further specify what amount of manual, team labour, and carts, are necessary for the[88] work, and also what plant the contractor must keep in the way of ladders, baskets, shovels, and brooms, &c. The conditions should also contain a carefully prepared list of the streets to be swept, and the manner and number of times this work must be executed, and arrange for the disposal of the materials thus removed.
+
+In many such contracts it is found necessary to insert clauses binding the contractor under all sorts of fearful penalties, to be always at the disposal and under the commands of the inspector of nuisances, or such other officer or officers as the Sanitary Authority may appoint. The contractor's men also are forbidden to refuse gratuities (an order which they no doubt fully carry out?) and are directed on no account to remove either trade or garden refuse, and they are also enjoined to be "careful to consult the convenience of the householders in their visits, and to thoroughly clean up all dirt and litter that they may cause in the discharge of their duties." If they fail in any or either of these injunctions and commands, or for any other dereliction of duty, the inspector of nuisances, or such other officer as the Sanitary Authority shall appoint, may summarily dismiss them, without any reference being made on the subject to their employer the contractor, and in[89] fact the conditions have necessarily to be made so stringent and binding as to be either totally inoperative or open to grave abuses, or, on the other hand, the work can be carelessly and improperly executed by the contractor.
+
+I am, therefore, strongly of opinion that the work of the collection of house refuse and cleansing the streets should be carried out by the Local Authority with their own officers and staff, and that executing this work by contract is a mistake and a false economy. It is, perhaps, true that it may be done in the latter manner at less actual cost to the ratepayers, but all public work should be done in the best manner possible, irrespective of cost, thoroughly, but without extravagance, and the result of such work, especially where it affects the cleanliness and the appearance of a town, soon fully repays any moderate extra cost that may thus have been incurred, irrespective of the enormous benefit that is conferred upon any community by the reduction of disease and the death-rate by a proper attention to such necessary sanitary work.
+Chapter XI. "￡ s. d."
+A question of the greatest importance to the ratepayers, and one in which they often take the most lively interest, is that of the cost of maintaining the necessary staff for the purpose of carrying out the scavenging of the town, or for paying the contracts for a similar work.
+
+It is, of course, not possible to lay down any hard and fast line as to the cost of scavenging in any city or town, as it must necessarily vary considerably according to circumstances; much depends upon whether the district to be scavenged is an urban one, consisting of houses closely packed together, or whether it is suburban, with scattered villas and mansions standing in their own grounds; the question, also, of the distance of the dep?ts to which the material has to be carted, considerably affects the result of any estimate, as also does the cost of horse hire, the rate of wages, and whether the district is of a hilly or flat nature, and, as I have before shown, the manner in which the streets are formed and[91] paved, the habits of the people, and last, but not least, the manner of the eventual disposal of the rubbish after removal; all these points must bear with great weight upon any question of cost, and make the results widely different.
+
+On referring to the returns to which I have more than once alluded, it is found that the cost of removing the house refuse and cleansing and sweeping the streets combined, varies considerably in different localities, in one case the sum amounts only to the rate of one half-penny per annum per head of the population of the town, whereas in another case the amount is at the rate of three shillings and sixpence per head. On calculating the average cost per head of population per annum of the ninety towns from which I received replies on this point, I find that it amounts to about tenpence half-penny, after giving credit for any sum of money realised by the sale of the refuse to farmers and others; so that if this work is costing the ratepayers of a town or city anything under a shilling per head of the whole population every year they have no cause to grumble, as they are so frequently found to do that their rates are higher, and what they have to show for them less than any other town in England.
+
+I have discussed the question of "contracts" or[92] "administration" in a former chapter, but there is still another question which is also closely connected and intermingled with the question of cost, and that is when the Sanitary Authority carry out the collection and removal of the house refuse and cleanse the streets with their own staff, whether it is better and more economical for them to keep their own stud of horses or to hire them.
+
+To do thorough justice to the work I am of opinion that both the horses and carts should be the property of the Sanitary Authority for the following reasons:—
+
+(1.) The horses and their drivers should be under the control of the town surveyor or superintendent, in the same manner as the scavengers who accompany the cart. This is not the case if the horses are hired.
+
+(2.) The carts can be started on their rounds and leave work at such time as may be found most convenient, and all the horses being kept in one stable greatly facilitates this arrangement.
+
+(3.) The horses hired for this kind of service are frequently quite unfit to draw the bulky loads in the lofty carts behind them, and opprobrium is thrown upon the Sanitary Authority and the officials in consequence.
+
+(4.) Economy in working is secured, for not only[93] will good horses properly kept do a much better day's work than bad ones ill kept, but there is no one making a profit out of them as is the case when the horses are hired.
+
+With regard to the question as to the comparative cost of scavenging where a stud of horses is kept and where they are hired, the figures that I am about to give can only be speculative, as the conditions of each town are so widely different, but the figures may serve as a guide for forming an estimate of the kind, and they may be altered to suit the requirements of any city or town.
+
+I will, therefore, assume that a town with a population of about 35,000 inhabitants will require at least seven scavengers' carts constantly at work, without reckoning those which will be required after a fall of snow or in exceptionally muddy weather, and for which purposes auxiliary horses and carts must be hired, as also those which are engaged in hauling stones and other materials used for roads or public works.
+
+I have already stated that the value of an ordinary dust cart is about ￡18, so I will retain that figure for my estimate.
+
+The value of a new set of cart harness, including a loin cloth, should not exceed ￡7.
+
+[94]
+
+To work seven carts properly, eight horses will be required, which may be estimated to cost about ￡50 each.
+
+The first cost of the necessary stabling for eight horses, including purchase of land, erection of buildings with a foreman's house, corn and hay lofts and machinery and tools, may be reckoned at about ￡1,500.
+
+With regard to the wages to be paid to the scavengers and the carters, it may be reasonably assumed that their rate of wages may be much lower than that paid to navvies, or what are known as "pick and shovel" men, for the following reasons:—
+
+In all house refuse there is always present a quantity of such materials as rags, bones, pieces of iron, and other articles, which have a commercial value, and behind each scavenger's cart hangs a sack, into which all such articles are placed by the men engaged in the removal of the house refuse, and are subsequently sold, and the spoil divided between them as perquisites. I have been credibly informed that in some localities the amount thus realised averages more than four shillings a week throughout the year.
+
+It is also a notable fact that although the householders are most particularly requested not to give[95] gratuities to the men employed by the Sanitary Authority in this work, yet a considerable number of them constantly give the men a gratuity or bribe to ensure the dustbin being regularly and properly cleared, although the less generous, or poorer members of the community probably suffer in consequence; again at Christmas the scavenger feels himself entitled to demand and receive a handsome present in the form of a Christmas-box, which, in a rich neighbourhood, amounts in the aggregate to no inconsiderable sum.
+
+For these reasons I put the wages both of the scavenger and the carter at 16s. each per week, and adding a guinea a week for the foreman, who has in addition to this a house to live in rent free, and a stableman at 18s. a week, the total expenses are accounted for except those of the keep of the horses, shoeing, veterinary attendance, lighting the stable, &c.
+
+This also is a sum very difficult to estimate, as fodder, bedding, &c., varies so widely in different districts, but for the purposes of this calculation it may be estimated that 17s. per horse per week should be sufficient to cover all expenses under these heads.
+
+For the purposes of this calculation it will be necessary to assume that the ￡1,500 has been borrowed at 4? per cent. in perpetuity, although as a[96] matter of fact any monies borrowed for such a purpose as this would probably carry a sinking fund, so as to liberate the debt at the end of thirty or perhaps fifty years, but if I were to reckon the interest in this way in my estimate, it would complicate it unnecessarily.
+
+I have assumed that to meet the depreciation of horse flesh it will be necessary to put aside the value of one horse each year, without reckoning anything per contra for the sale of those worn out or injured in the work, as I think this will be found to be what would be necessary.
+
+I have allowed ￡50 per annum for repairs and depreciation of the buildings and machinery, as I consider this should be quite sufficient for a well-managed and cared-for property.
+
+I have allowed 15 per cent. per annum for repairs and depreciation of the harness, and 12 per cent. for the carts.
+
+The estimate will consequently stand thus:—
+
+[97]
+
+Specimen Estimate of the cost per annum involved by any Urban Sanitary Authority of a town of 35,000 inhabitants, in executing the work of collection of house refuse and the cleansing of streets, with their own staff of men and horses and carts.
+
+    Annual Cost.
+    ￡    s.    d.
+Capital    borrowed    ￡1,500, yearly interest at 4? per cent    67    10    0
+Do.    do.    for 8 horses at ￡50    ￡400
+Do.    do.    for 7 carts at ￡18    ￡126
+Do.    do.    for 7 sets of harness
+           at ￡7    ￡49
+            ——
+            ￡575    at 4? per cent.    25    17    6
+Repairs to buildings, machinery, &c.    50    0    0
+Depreciation of horse flesh, say    50    0    0
+Do.    of 7 carts, costing ￡126, at 12 per cent.    15    2    2
+Do.    of 7 sets of harness, costing ￡49, at 15 per cent.    7    7    0
+Wages    of 7 carters at 16s. each per week    291    4    0
+Do.    of 7 scavengers at  do.      do.    291    4    0
+Do.    of 7 sweepers of roads at  do.  do.    291    4    0
+Do.    of 1 foreman at 21s. per week    54    12    0
+Do.    of 1 stablekeeper at 18s.  do.    46    16    0
+Keep, &c., of 8 horses at 17s. per week each    353    12    0
+    ——————
+    Total estimated cost    ￡1,544    8    11
+    ============
+
+If the foregoing estimate is compared with the standard of one shilling per head of the population per annum, which I have fixed as a fair average cost[98] of such work, it is found to be less by ￡205 than that of a town of 35,000 inhabitants, for this latter case amounts to ￡1,750, and nothing has been allowed for the possible sale of the house refuse thus collected, but, on the other hand, I have allowed nothing for any emergency, such as a very rainy season or a deep fall of snow.
+
+If the horses and drivers had been hired the estimate might stand thus:—
+
+    Annual Cost.
+    ￡    s.    d.
+Hire of 7 horses and drivers at 8s. per diem for six days a week    873    12    0
+Hire of 4 horses and drivers on Sunday, half-a-day each    41    12    0
+Foreman to superintend (no free house rent as in former case)    65    0    0
+Wages of scavengers as before    291    4    0
+     Do. of sweepers      do.    291    4    0
+    ——————
+    ￡1,562    12    0
+    ============
+
+This shows that the cost of hiring would be slightly in excess of that of keeping a stud of horses, and when we consider the unquestionable benefit to be derived by adopting this method, I think most Urban Authorities who are now hiring their team labour would do well to consider the question of purchasing and keeping their own stud.
+
+Great care, however, would have to be exercised in[99] the supervision, or the expenditure would speedily increase, as in all stable establishments without such supervision, grave abuses, and even fraud, may go undetected for a considerable period.
+
+The figures that I have given in my estimates must not be criticised, for they are not intended to fix the value of such work, but simply to act as a guide to anyone interested in making an estimate of the kind, in which case prices more in accordance with the district could be inserted.
+
+The following table, however, gives the actual cost of collecting house refuse and cleansing and watering streets in fourteen large English towns:—
+
+            
+Name of Town.    Annual cost of collecting house refuse and cleansing and watering streets and courts.     This amounts to the following:—
+Per 1,000 of population.    Per mile of streets.
+            
+    ￡        ￡        ￡    
+Bedford    900    45.0    45.9
+Bristol    13,005    63.1    108.3
+Cambridge    2,350    67.1    83.9
+Cardiff    5,545    65.2    95.6
+Carlisle    2,261    64.6    113.0
+Exeter    2,100    52.5    60.0
+Gloucester    1,478    36.9    49.3
+Liverpool    82,284    151.2    316.2
+Northampton    2,820    51.3    104.4
+Oxford    2,750    63.9    85.9
+Portsmouth    5,276    39.0    101.4
+Southampton    1,999    33.3    45.4
+Southport    4,077    119.9    97.0
+Swansea    4,200    60.0    76.3
+            
+
+These figures are taken from a return prepared by Mr. Williams, C.E., Engineer to the Borough of Cardiff.
+
+[100]
+
+I have frequently referred to some returns which I have obtained on the subject of the collection of house refuse and cleansing of streets, and it may be interesting and of use to others who wish to obtain information on these subjects if before closing this book I give a list of the questions that were asked. They were as follows:—
+
+(1.)    Name of city or town.
+(2.)    Number of inhabitants.
+(3.)    Area of district scavenged.
+(4.)    Is the house refuse collected by the Urban Authority.
+(5.)    Or by a contractor.
+(6.)    How often is the house refuse removed.
+(7.)    Do the scavengers make a house to house call.
+(8.)    Or do they give notice of their approach by ringing a bell or otherwise, and require the householder to bring out the refuse to the cart.
+(9.)    Do the scavengers remove garden or trade refuse, and, if so, under what conditions.
+(10.)    Are the house dustbins, as a rule, fixed or movable.
+(11.)    Have you any public dustbins, and, if so, are they merely isolated instances, or have you a regular system.
+[101] (12.)    Number of dep?ts for the refuse collected, and the distance they are from the town.
+(13.)    How is the refuse disposed of.
+(14.)    Approximate mileage of streets cleansed.
+(15.)    Are all the streets swept daily, or only the principal ones.
+(16.)    Have you any provision for sweeping streets oftener than once a day, or for the frequent removal of horse dung, &c.
+(17.)    Are private courts and alleys swept and cleansed by the Urban Authority, and, if so, how frequently.
+(18.)    What number of men, horses, and carts respectively, do you employ.
+(19.)    Net cost of your system after giving credit for any money realised by sale of refuse.
+
+In concluding this little book on "Dirty Dustbins and Sloppy Streets," I hope that what has been said may be of some use to my readers, and that they will themselves supply any omissions that they have found, and kindly correct all the errors, which are only too ready to creep into a work of this description.
+
+The End
