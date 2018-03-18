@@ -106,8 +106,7 @@ class fTFIDF(object):  #该部分可改进，提高速度
         self.relatedDict={} #协同过滤获取的文章
         self.reDict={}
         
-    def readFile(self): #将数据库中词频储存在fictionKeyDict中，RE存在fictionRE中       
-        #sql_select="SELECT id,RE,TFIDF,reArticle FROM fiction;"
+    def readFile(self): #将数据库中词频储存在fictionKeyDict中，RE存在fictionRE中
         data=fiction.objects.all()
         for row in data:
             self.fictionKeyDict[row.name]=eval(row.TFIDF)
@@ -120,6 +119,7 @@ class fTFIDF(object):  #该部分可改进，提高速度
         
     def getfliter(self):
         return self.relatedDict
+    #思路不对，应该是点击某篇文章，然后显示该文章的关联文章
     
     def  calculateTFIDF(self,earticleWords,einputArticle,eallDict):
          #print(ainputArticle)

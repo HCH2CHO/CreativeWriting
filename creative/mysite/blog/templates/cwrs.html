@@ -106,15 +106,16 @@
 var fulltext
 var xietong=''
 var titlestr
-var usergrade=3
+var usergrade=0
 
 function checkLeave()
 {
-usernm={{username}}
+var u1=document.getElementsByTagName("p")[0].innerHTML
+u1=u1.replace(/Welcome /,"");
 $.ajax({
                 url:'/xietong/',
                 type:'POST',
-                data:{element1:usernm,element2:xietong,element3:usergrade},
+                data:{element1:u1,element2:xietong,element3:usergrade},
                 success: function (data) {
                 //alert("success!")
                 }
@@ -175,7 +176,9 @@ function export_raw(name, data) {
 
 function saveText()
 {
-
+var u1=document.getElementsByTagName("p")[0].innerHTML
+u1=u1.replace(/Welcome /,"");
+//alert(u1)
 var  text =$('#input1').val()
 var title=document.getElementById("title").value
 export_raw(title+'.txt', text);
@@ -183,7 +186,9 @@ export_raw(title+'.txt', text);
 $.ajax({
                 url:'/save/',
                 type:'POST',
-                data:{text:text,username:{{username}}},
+                headers: {'Content-Type': 'application/json',"X-CSRFToken":csrftoken},
+                data:{text:text,username:u1},
+                dataType: "json",
                 success: function (data) {
                 //alert("success!")
                 }
@@ -209,7 +214,7 @@ function fullText()
 {
 document.getElementById("input2").value = fulltext
 xietong=xietong+','+titlestr
-//alert(xietong)
+alert(username)
 //document.getElementById("p2").style.display = "block";
 }
 
@@ -269,7 +274,7 @@ $(function(){
     <div class="tab1">
             <div class="container-fluid header">
                     <form method = 'post'>
-                        <p id="welcome">Welcome {{username}}！</p>
+                        <p id="welcome">Welcome {{username}}</p>
                     </form>
             </div>
     </div>
@@ -329,11 +334,11 @@ $(function(){
                     </div>
                     <div class="col-md-6">
                         <div class="list-group">
-                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)">test</a>
-                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)">test</a>
-                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)">test</a>
-                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)">test</a>
-                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)">test</a>
+                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)"></a>
+                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)"></a>
+                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)"></a>
+                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)"></a>
+                            <a href=" javascript:void(0)" class="list-group-item" onclick="open1(this)"></a>
                         </div>
                     </div>
                 </div>                                        
@@ -365,6 +370,7 @@ $(function(){
         hints:['unsatisfied','regular','satisfied'],
         size: 24,
         number: 3,
+
         cancel: true,
         click: function(score,evt) {    //用户评级后的回调函数,score是分数
         usergrade=score;

@@ -88,9 +88,11 @@ class nGramAlgo(object):
 
     def insertdb(self,afile): #易读性公式
         #self.ngrams=sorted(self.ngrams.items(),key = lambda t:t[1],reverse=True)排序后为列表
-
-        fiction0 = fiction(name=str(afile.replace('.txt','')),words=self.words,wordfre=str(self.ngrams),sl=self.sl,wl=self.wl,RE=self.RE)
-        fiction0.save()
+        try:
+            fiction0 = fiction(name=str(afile.replace('.txt','')),words=self.words,wordfre=str(self.ngrams),sl=self.sl,wl=self.wl,RE=self.RE)
+            fiction0.save()
+        except:
+            print("already exist")
 
 
 if __name__ == '__main__':

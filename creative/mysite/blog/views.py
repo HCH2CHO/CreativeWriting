@@ -69,7 +69,7 @@ def ajax(request):
 
     ai = fTFIDF()
     ai.readFile()
-    recommend2 = ai.getfliter()  # 2为协同过滤推荐(数量不定),结构为列表
+    #recommend2 = ai.getfliter()  # 2为协同过滤推荐(数量不定),结构为列表
 
     result = fnGramAlgo(content)
     result.select150words()
@@ -115,7 +115,7 @@ def datadeal(request):
     for root, dirs, files in os.walk("blog\\static\\shortfiction"):
         for file in files:
             try:
-                txt = open(root + '\\' + file, 'r')
+                txt = open(root + '\\' + file, 'r',encoding='UTF-8')
                 content = txt.read()
 
                 result = nGramAlgo(content)
@@ -135,6 +135,7 @@ def datadeal(request):
     Apr=Apriori()
     Apr.calculateApriori()
     Apr.writeData()
+    print('update finish!')
     return HttpResponse()
 
 
