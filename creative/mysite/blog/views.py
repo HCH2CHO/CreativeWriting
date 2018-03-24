@@ -145,9 +145,10 @@ def xietong(request):
     name = request.POST.get('element1')
     readlist = request.POST.get('element2')
     score=request.POST.get('element3')
+    print(score)
 
     #print(readlist)
-    #print(name)
+
     '''
     with open("based on user.txt", "a") as f:
         f.write(a+'\n')

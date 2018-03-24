@@ -12,19 +12,16 @@ import math
 from blog.syllables_en import *
 import sqlite3
 from blog.models import fiction
-from blog.models import history
+from blog.models import word
 
-
+#数据库删除操作
+#fiction.objects.filter(name='yangmv').delete()
 
 def getAllWords():
     allwordsDict={}
-    data=fiction.objects.all()
-    for row in data:    
-        for aword in eval(row.TFIDF):  #文章名
-            if aword not in allwordsDict:
-                allwordsDict[aword]=1
-            else:
-                allwordsDict[aword]+=1
+    data=word.objects.get(name='AllFiction')
+    allwordsDict=eval(data.words)
+
     return allwordsDict
 
 class fnGramAlgo(object):
@@ -136,7 +133,7 @@ class fTFIDF(object):  #该部分可改进，提高速度
          for kword in sortTFIDF:
              cout+=1
              if cout >100:
-                 reDict.pop(kword)
+                 reDict.pop(kword[0])
            
          weightAll=0
          for jword in reDict:

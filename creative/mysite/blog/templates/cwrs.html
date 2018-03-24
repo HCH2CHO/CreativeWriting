@@ -106,21 +106,25 @@
 var fulltext
 var xietong=''
 var titlestr
-var usergrade=0
+var usergrade=new Array(3)
+usergrade[0]=0
+usergrade[1]=0
+usergrade[2]=0
 
 function checkLeave()
 {
 var u1=document.getElementsByTagName("p")[0].innerHTML
 u1=u1.replace(/Welcome /,"");
+var usergra=String(usergrade[0])+','+String(usergrade[1])+','+String(usergrade[2])
 $.ajax({
                 url:'/xietong/',
                 type:'POST',
-                data:{element1:u1,element2:xietong,element3:usergrade},
+                data:{element1:u1,element2:xietong,element3:usergra},
                 success: function (data) {
                 //alert("success!")
                 }
             });
-
+alert("Grade Successfully")
 }
 
 function cop(){
@@ -270,7 +274,7 @@ $(function(){
 <!--"onpropertychange"用于ie核心的浏览器，"oninput"用于firefox-->
 
 
-<body onbeforeunload="checkLeave()">
+<body>
     <div class="tab1">
             <div class="container-fluid header">
                     <form method = 'post'>
@@ -304,22 +308,33 @@ $(function(){
                     </div>
                     <div class="col-md-3">
                         <button onclick="fullText()" type="button" class="btn btn-success" id="btn2"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> full text</button>
-                        <br>
+						<br>
                         <span id="p1" style="margin-left:60px;display:none;width:500px;float:left;">Your article style is similar to the following:</span>
                         <span id="p2" style="margin-left:120px;display:none;width:500px;float:left;">People who read this article also read:</span>
                         </br>
                     </div>
                     <div class="col-md-3">
-                        <button class="btn btn-default" type="submit" style="float:right;margin-top:1%">Grade The Recommendation</button>
-                        <div id="grade" style="float:right;margin-top: 2.5%"></div>
-                    </div>
+                        <button class="btn btn-default" type="submit" style="float:right;margin-top:1%" onclick="checkLeave()">Grade The Recommendation</button>
+					</div>
+				</div>
+				<div class="row">
+                	<div id="grade1" style="float:right;margin:0.8% 0 auto 0.2%;width:0"></div>
+                    <h4><span class="label label-warning" style="float:right">Content and Theme</span></h4>
+                </div>
+                <div class="row">
+                    <div id="grade2" style="float:right;margin:0.8% 0 auto 0.2%;width:0"></div>
+                    <h4><span class="label label-warning" style="float:right">Expression and Emotion</span></h4>
+                </div>
+                <div class="row">
+                    <div id="grade3" style="float:right;margin:0.8% 0 auto 0.2%;width:0"></div>
+                    <h4><span class="label label-warning" style="float:right">Words and Sentence</span></h4>
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <h3><span class="label label-default"> First Recommendation</span></h3>
+                        <h3><span class="label label-default"> Your article style is similar to the following:</span></h3>
                     </div>
                     <div class="col-md-6">
-                        <h3><span class="label label-default"> Second Recommendation</span></h3>
+                        <h3><span class="label label-default"> People who read this article also read:</span></h3>
                     </div>
                 </div>
                 <div class="row">
@@ -343,7 +358,7 @@ $(function(){
                     </div>
                 </div>                                        
             </div>
-        <div class="container-fluid">
+
                 
         </div>   
     </div>
@@ -362,20 +377,48 @@ $(function(){
  <script src="../static/js/bootstrap.min.js"></script>
  <script src="../static/js/jquery.raty.js"></script>
  <script>
-
-    $('#grade').raty({
-        path: '../static/images',
+ $('#grade1').raty({
+ 		path: '../static/images',
         starOff: 'star-off-big.png',
         starOn: 'star-on-big.png',
-        hints:['unsatisfied','regular','satisfied'],
+        hints:['bad','unsatisfied','regular','satisfied','excellent'],
         size: 24,
-        number: 3,
-
+        number: 5,
         cancel: true,
-        click: function(score,evt) {    //用户评级后的回调函数,score是分数
-        usergrade=score;
-        alert("Grade Successfully")}
+        scorer:0,
+        click: function(score,evt) {    //用户评级后的回调函数,score是分数            
+        	usergrade[0]=score;
+		}
+		
     });
+    $('#grade2').raty({
+		path: '../static/images',
+        starOff: 'star-off-big.png',
+        starOn: 'star-on-big.png',
+        hints:['bad','unsatisfied','regular','satisfied','excellent'],
+        size: 24,
+        number: 5,
+        cancel: true,
+        scorer:0,
+        click: function(score,evt) {    //用户评级后的回调函数,score是分数
+          usergrade[1]=score;  
+        }
+		
+    });
+    $('#grade3').raty({
+		path: '../static/images',
+        starOff: 'star-off-big.png',
+        starOn: 'star-on-big.png',
+        hints:['bad','unsatisfied','regular','satisfied','excellent'],
+        size: 24,
+        number: 5,
+        cancel: true,
+        scorer:0,
+        click: function(score,evt) {    //用户评级后的回调函数,score是分数
+            usergrade[2]=score;
+        }
+		
+    });			
 
  </script>
 </body>

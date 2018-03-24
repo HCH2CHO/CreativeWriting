@@ -7,7 +7,7 @@ Created on Fri Nov 24 19:10:40 2017
 
 import math
 from blog.models import fiction
-
+from blog.models import word
 
 
 class TFIDF(object):
@@ -28,9 +28,10 @@ class TFIDF(object):
         data=fiction.objects.all()
         for row in data:
             #print(row)
-            self.fictionKeyDict[row.name]=eval(row.wordfre)
-            self.fictionWords[row.name]=int(row.words)
-            self.cout+=1
+            if(row.words!=0):
+                self.fictionKeyDict[row.name]=eval(row.wordfre)
+                self.fictionWords[row.name]=int(row.words)
+                self.cout+=1
             
     
     def  calculateTFIDF(self):
@@ -40,7 +41,8 @@ class TFIDF(object):
                     self.allDict[jword]=1
                 else:
                     self.allDict[jword]+=1
-        
+
+
          reDict={}   #两层字典结构        
          for iword in self.fictionKeyDict:
              self.fictionInfo[iword]={}
@@ -75,7 +77,20 @@ class TFIDF(object):
              fiction0.TFIDF=str(reDict[iword])
              fiction0.save()
 
-
+         #存储TFIDF词
+         allwordsDict = {}
+         data = fiction.objects.all()
+         for row in data:
+             for aword in eval(row.TFIDF):  # 文章名
+                 if aword not in allwordsDict:
+                     allwordsDict[aword] = 1
+                 else:
+                     allwordsDict[aword] += 1
+         try:
+             word.objects.filter(name='AllFiction').update(words=str(allwordsDict))
+         except:
+            fictionWord = word(name='AllFiction',words=str(allwordsDict))
+         fictionWord.save()
          #return reDict
              
     def reAllDict(self):

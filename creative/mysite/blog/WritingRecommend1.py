@@ -92,7 +92,6 @@ class nGramAlgo(object):
         fiction0.save()
 
 
-
 if __name__ == '__main__':
     for root , dirs, files in os.walk(path):
         for file in files:          
