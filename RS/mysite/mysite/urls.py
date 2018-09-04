@@ -13,29 +13,24 @@ Including another URLconf
     1. Import the include() function: from django.conf.urls import url, include
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
 """
-from django.conf.urls import url,include
-from django.contrib import admin
+from django.conf.urls import url
 import blog.views as bv
-from mysite import settings
-
-
 
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
-    url(r'^index/', bv.index),
-    url(r'^time/$', bv.current_datetime),
-    url(r'^add/$', bv.index1),
-    url(r'^index2/$', bv.index2),
-    url(r'^ajax/$', bv.ajax),
-    url(r'^pdf/$', bv.pdf),
-    url(r'^$', bv.register, name='register'),
-    url(r'^register/$',bv.register,name = 'register'),
-    url(r'^login/$',bv.login),
-    url(r'^save/$', bv.save),
+    url(r'^$', bv.CreativeWriting),
     url(r'^CreativeWriting/$',bv.CreativeWriting),
-    url(r'^loginc/$',bv.loginc),
-    url(r'^signupc/$',bv.signupc),
+
+    url(r'^index/', bv.index),
+    url(r'^loginc/$', bv.loginc),
+    url(r'^signupc/$', bv.signupc),
     url(r'^xietong/$', bv.xietong),
-    url(r'^datadeal/$',bv.datadeal),
+    url(r'^datadeal/$', bv.datadeal),
+    url(r'^ajax/$', bv.ajax),
+    url(r'^save/$', bv.save),
+    #电影推荐
+    url(r'^update/$',bv.update),
+    url(r'^get_info/$', bv.get_info),
+    url(r'^get_movie/$',bv.get_movie),
+    url(r'^KGRS2/$',bv.KGRS2),
 
 ]

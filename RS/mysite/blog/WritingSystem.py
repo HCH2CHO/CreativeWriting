@@ -10,7 +10,6 @@ import string
 import operator
 import math
 from blog.syllables_en import *
-import sqlite3
 from blog.models import fiction
 from blog.models import word
 

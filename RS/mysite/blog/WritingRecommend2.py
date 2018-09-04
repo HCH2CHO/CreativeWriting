@@ -19,8 +19,6 @@ class TFIDF(object):
         self.cout=0       #项数、文章数
         self.allDict={}  #全部文章词语的词典
 
-
-
     def readFile(self): #将数据库中词频储存在fictionKeyDict中，文章词数储存在fictionWords中                   
         #sql_select="SELECT id,words,wordfre FROM fiction;"
         #data=TFIDF.cur.execute(sql_select)
@@ -32,8 +30,7 @@ class TFIDF(object):
                 self.fictionKeyDict[row.name]=eval(row.wordfre)
                 self.fictionWords[row.name]=int(row.words)
                 self.cout+=1
-            
-    
+
     def  calculateTFIDF(self):
          for iword in self.fictionKeyDict:  #文章名
             for jword in self.fictionKeyDict[iword]:  #词
@@ -86,10 +83,9 @@ class TFIDF(object):
                      allwordsDict[aword] = 1
                  else:
                      allwordsDict[aword] += 1
-         try:
-             word.objects.filter(name='AllFiction').update(words=str(allwordsDict))
-         except:
-            fictionWord = word(name='AllFiction',words=str(allwordsDict))
+
+         #存储全部词汇表
+         fictionWord = word(id=0,name='AllFiction', words=str(allwordsDict))
          fictionWord.save()
          #return reDict
              
