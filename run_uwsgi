@@ -1,2 +1,2 @@
-uwsgi --ini /home/HCHO/RS/mysite/mysite_uwsgi.ini
+uwsgi --ini /home/HCHO/CreativeWriting/RS/mysite/mysite_uwsgi.ini
 
